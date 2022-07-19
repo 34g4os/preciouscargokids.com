@@ -19,7 +19,7 @@ title="Med Spec 264015 ASO Ankle Stabilizer, Black, Large"
 img="https://m.media-amazon.com/images/I/31vRduY+pfL._SL500_.jpg"
 description="Stabilizing Straps form complete figure-eight to protect and support ankle Ballistic nylon boot provides superior durability and strength Machine wash gentle cycle, no bleach. Air dry. Elastic cuff closure enhances support and keeps laces and stabilizing straps secure Bilateral design so each size will fit left or right foot; Low profile to fit in any type of shoe Each ankle brace is sold separately; US manufacturing with higher quality control standards Machine wash gentle cycle, no bleach. Air dry."
 asin="B00TZTO0TO"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -27,7 +27,7 @@ title="Amazon Essentials Men s 10-Pack Cotton Half Cushioned Ankle Socks, White,
 img="https://m.media-amazon.com/images/I/31Mb7-K1XSL._SL500_.jpg"
 description="These cushion athletic ankles come in a pack of ten pairs with smooth toe seams and moisture management for all day comfort These soft ankle socks feature premium cotton, cushioned soles, and moisture control for all day comfort Smooth Toe Seam Construction eliminates bulky seams to reduce abrasion and prevent blisters Spandex for superior fit and shape retention Everyday made better: we listen to customer feedback and fine-tune every detail to ensure quality, fit, and comfort"
 asin="B07NSTK238"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -35,7 +35,7 @@ title="Vive Compression Ankle Ice Wrap - Cold Therapy For Foot Pain Relief, Circ
 img="https://m.media-amazon.com/images/I/41m0u5bLLwL._SL500_.jpg"
 description="SOOTHING RELIEF FOR FOOT AND ANKLE PAIN: Uniquely shaped for maximum coverage, the Vive compression ankle ice wrap provides targeted hot or cold therapy with customizable compression to relieve swelling and pain in the foot or ankle. Ideal for managing pain due to sprains, strains and sports injury, the flexible ankle wrap also helps relieve arthritis pain and stiffness as well as muscle fatigue. CUSTOMIZABLE COMPRESSION FOR OPTIMAL RELIEF: Fitted with an internal air bladder, the ankle ice wrap also provides customizable compression to enhance the cold or hot therapy for maximum relief. The included removable hand pump allows you to easily customize the level of compression by adding and releasing air as needed. VERSATILE HOT OR COLD THERAPY: Remaining flexible when frozen, the Vive ankle ice wrap includes a unique Arctic Flex gel pack for cooling relief that can also be gently heated. The reusable gel pack is made with a soft, latex-free vinyl and filled with a nontoxic gel. FLEXIBLE FIT FOR EITHER ANKLE: Universally designed for use on the left or right ankle, the compression ice wrap is secured in place with a strong fastener strap for an adjustable fit up to US men’s size 14 shoe, women’s size 12 shoe. The compression ankle ice wrap is made with a soft, neoprene blend that is latex-free for exceptional comfort. VIVE GUARANTEE: 60 day guarantee so you can purchase now with confidence."
 asin="B07XJYNWSC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="14844"
 >}} 
 {{< product 
@@ -43,7 +43,7 @@ title="Ankle Support Brace, Breathable Neoprene Sleeve, Adjustable Wrap!"
 img="https://m.media-amazon.com/images/I/41bln23bzKL._SL500_.jpg"
 description="One size fits both feet and up to 11  in feet arch circumference. Protect the ankle and minimize the risk of injury. Perfect for chronic and acute ankle injury symptoms. Helps relieve pain and provides comfort related to plantar fasciitis. Open heel design allows wide range of motion during activity and still provide support for the ankle tendons and joints. Ideal for indoor and outdoor sports that need strain ankles during exercise. Breathable neoprene material retains heat and prevents skin irritation. Comfortable, flexible, durable and washable. Speed up the healing phase, as it provides just enough and needed support for ankle and foot through compression on the tendons where you need it the most."
 asin="B01LXAGV0H"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="4793"
 >}} 
 ## Is your ankle important?

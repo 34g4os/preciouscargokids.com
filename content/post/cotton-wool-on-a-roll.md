@@ -17,7 +17,7 @@ title="Cliganic Premium Cotton Rounds for Face (300 Count) - Makeup Remover Pads
 img="https://m.media-amazon.com/images/I/516-cDbGqOL._SL500_.jpg"
 description="100% PURE NATURAL COTTON - 300 Count (3 Packs of 100) LINT FREE, HYPOALLERGENIC - No more cotton lint getting in your way MULTI LAYER, EXTRA ABSORBENT - premium quality GENTLE & SOFT - Ideal for men and women CLIGANIC 100% SATISFACTION GUARANTEE - RISK FREE! We put a lot of effort into manufacturing quality products that will meet our customers’ expectations. And we stand behind every item that we make, 100%. If you are not satisfied completely with your purchase, we will be happy to replace it or issue you a full refund."
 asin="B0777NG2DM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="6800"
 >}} 
 {{< product 
@@ -25,7 +25,7 @@ title="Dukal White Cotton Roll. Roll of Non-sterile Cotton for Wound Care. Soft 
 img="https://m.media-amazon.com/images/I/313b4XIM0kL._SL500_.jpg"
 description="NON-STERILE COTTON ROLLS: White cotton rolls are ideal for applying first aid creams and ointments. They are non-sterile, and are made from 100% natural cotton. Come in a re-sealable drawstring polybags for convenience. 1 roll per bag. EASY TO TEAR: These soft cotton rolls are easy to unwind and offer a wide range of uses. Short fibers make them easy to tear. 100% cotton provides maximum absorbency and uniform consistency. Designed to be softer and more absorbent than synthetics. SOFT COTTON: Natural cotton rolls are an excellent way to add extra absorbency and provide wound care. Their super absorbent quality and soft texture make them work excellently well for wound treatment. Not made with natural rubber latex. EASY TO USE & ECONOMICAL: These medical cotton rolls offer an ease of use when you need fast effect. Just follow several steps and you will get a quick and high-quality result. Our absorbent cotton rolls are a great cost effective option that can be used on a daily basis in different medical facilities. APPLICATION: Prepping cotton rolls are disposable medical supplies commonly used in medicine and surgery. Single use cotton rolls are made from 100% pure cotton and are ideal for medical use, including cleaning cuts and scrapes, as well as applying creams and ointments."
 asin="B07YYD8GNL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="3441"
 >}} 
 ## What is cotton wool called?

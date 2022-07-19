@@ -25,7 +25,7 @@ title="Rddconkit Internal Diameter 80mm Length 2m Heat Shrink Tubing Cable Sleev
 img="https://m.media-amazon.com/images/I/418vTY6oTdL._SL500_.jpg"
 description="Material: PE Fast, safe, secure way to wrap wiring harnesses. Protects and insulates. The heat shrink is perfect for shrinking and sealing connectors, wires, etc. Excellent insulation, wear and corrosion resistant performance. Cutting method: Scissors or sharp knife."
 asin="B0732NHQC6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="51"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="uxcell PVC Heat Shrink Tube 80mm Flat Width Wrap for Three 18650 2 Meter 
 img="https://m.media-amazon.com/images/I/214gP5KDzXL._SL500_.jpg"
 description="[FIT for] This PVC heat shrink tube is a great items for protecting and repairing the skin cover of 18650. [TEMP and SHRINKING RATE] Shrinkable Temperature:80℃; Shrinking Rate: 48%(cross section)and 5%(longitudinal). [PARAMETER] Flat Width: 80 mm / 3.14 Inch; Length: 2 Meter / 6.56 Feet; Temperature Range: -40℃ to +105℃; Heating tool: Hot Air Tools. [ADVANTAGE] Excellent , insulation, stable performance and fast shrinkage. [NOTE] Please place this product in a cool place to avoid deformation due to high temperature."
 asin="B082B3CFZ3"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="18699"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="MECCANIXITY Battery Wrap PVC Heat Shrink Tubing 80mm Flat 10 Feet Black G
 img="https://m.media-amazon.com/images/I/319VgOAS6dS._SL500_.jpg"
 description="PVC heat shrink wrap tube can be used for big battery or battery pack protection, such as 18650, 21700, AA, AAA battery packs. Battery wraps can be used for protection for batteries pack, electronic components, LED pins, etc. PVC heat shrinkable tube can also be used for DIY of various handle tools in daily life, more convenient and fast. The PVC heat shrink wrap tube is in size of: 80mm(3.15-inch) flat width, 10 Feet total length, -40°C to +105°C(-40°F to +221°F) temperature range, 80°C(176°F) shrinking temperature Battery wrap tube is with good insulation, can not only wrap and protect the battery pack, prevent dust for the battery pack, but also beautify the battery pack. With good insulation, PVC heat shrink tubing can also be used for the protection of electronic components, and LED pins. Steps of intallation:1.Prepare heat shrink tube, cut it to the length you want ; 2.Put battery in the heat shrink tube ; 3.Shrink with hot air gun Notice: Hot air gun is usually used as heating tool. When using the hot air gun to heat, pay attention to move back and forth to make the heat shrink tube heated as a whole."
 asin="B097ZSH9RG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="153"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="uxcell Heat Shrink Tubing, 2 (50mm) Dia 80mm Flat Width 2:1 Ratio Shrinka
 img="https://m.media-amazon.com/images/I/31C+FDMV2pL._SL500_.jpg"
 description="Before Shrink Dia : 50mm/2  ; Flat Width : 80mm/3.15  ; Total Length : 1m/3.3ft Operating Temperature : -55~+105℃(-67°F~221°F) ; Voltage Rating: 1000V Heat shrink tubing is good useful, of the specification of good electrical insulation, corrosion resistance and high temperature resistance. Widely Applications: Electrical Insulation, Wire Protection, Cable Bonding, Data Cable Decoration, Color-Coding, Wire Marking, Wire Bundling & more. Package Content : 1pcs x Heat Shrink Tubing"
 asin="B08GJXS6CM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="18699"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="MECCANIXITY Battery Wrap PVC Heat Shrink Tubing 80mm Flat 10 Feet Light G
 img="https://m.media-amazon.com/images/I/41bkEKFD+oS._SL500_.jpg"
 description="PVC heat shrink wrap tube can be used for big battery or battery pack protection, such as 18650, 21700, AA, AAA battery packs. Battery wraps can be used for protection for batteries pack, electronic components, LED pins, etc. PVC heat shrinkable tube can also be used for DIY of various handle tools in daily life, more convenient and fast. The PVC heat shrink wrap tube is in size of: 80mm(3.15-inch) flat width, 10 Feet total length, -40°C to +105°C(-40°F to +221°F) temperature range, 80°C(176°F) shrinking temperature Battery wrap tube is with good insulation, can not only wrap and protect the battery pack, prevent dust for the battery pack, but also beautify the battery pack. With good insulation, PVC heat shrink tubing can also be used for the protection of electronic components, and LED pins. Steps of intallation:1.Prepare heat shrink tube, cut it to the length you want ; 2.Put battery in the heat shrink tube ; 3.Shrink with hot air gun Notice: Hot air gun is usually used as heating tool. When using the hot air gun to heat, pay attention to move back and forth to make the heat shrink tube heated as a whole."
 asin="B097ZQP3ZQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="153"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Flyshop 80 x 80mm Black Plastic Plugs Square Tubing End Caps Tube Inserts
 img="https://m.media-amazon.com/images/I/31nB5jyOrhL._SL500_.jpg"
 description="Compatible Outside Tube Diameter: 80*80mm/ 3.15 *3.15  Compatible Tubing Wall Thickness: 0.5-2mm/ 0.02 -0.08  Made With Sturdy Black PP Plastic Built with multiple ribs for easy install and secure fit Package Content : 8 x Tube Plugs"
 asin="B07CVFWWM1"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="137"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Tubolito S-Tubo Road 700 x 18-28mm Tube - 80mm Presta Valve, Disc Brake O
 img="https://m.media-amazon.com/images/I/21rx6p7FOsL._SL500_.jpg"
 description="LIGHT: It’s easier to jump when you’re light and Tubolito delivers weight savings! Up to 2/3rds lighter than a standard tube! STRONG: Lighter and Stronger? Yes! 2x as strong as a standard tube thanks to the utilization of a thermoplastic elastomer. COMPACT: When rolled up, the Tubo Road is 50% smaller than a standard tube. Easily fits in any pack. FAST: Due to low rotational weight, these tubes will also make your bike feel faster upon acceleration and make sustaining speed easier. Perfect for all riding conditions. PATCH KITS: Easily repair a Tubo Innertube with our Flix-Kit patch system (sold separately)"
 asin="B07PZ2PK69"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="468"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="uxcell Heat Shrink Tubing, 80mm Dia 128mm Flat Width 2:1 Ratio Shrinkable
 img="https://m.media-amazon.com/images/I/31zoViX1PWL._SL500_.jpg"
 description="Before Shrink Dia : 80mm/3.15  ; Flat Width : 128mm/5  ; Total Length : 1m/3.3ft Operating Temperature : -55~+105℃(-67°F~221°F) ; Voltage Rating: 1000V Heat shrink tubing is good useful, of the specification of good electrical insulation, corrosion resistance and high temperature resistance. Widely Applications: Electrical Insulation, Wire Protection, Cable Bonding, Data Cable Decoration, Color-Coding, Wire Marking, Wire Bundling & more. Package Content : 1pcs x Heat Shrink Tubing"
 asin="B08GJX71PJ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="18699"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="uxcell Clear Rigid Acrylic Pipe 76mm(3 ) ID x 80mm OD x 305mm(12 ) Round 
 img="https://m.media-amazon.com/images/I/21rHJ--QQpL._SL500_.jpg"
 description="【 FEATURE】- 76mm ID x 80mm OD, 305mm(12-inch) Length Clear Rigid Tubing widely used in wire, cable, wire casings, etc. 【 MATERIAL】- Round PMMA tube made in PMMA material, durable and long service life. High light transmission, resistance high temperature. 【ADVANTAGE】- Rigid Round Tubing has a very high impact resistance, high transparency, strong chemical stability. 【CLEAR RIGID TUBE】Transparent acrylic, easy to see the flow of liquid. 【WIDELY APPLICATION】- Clear PMMA tube is widely used for lamps and lanterns, aquarium, fish tank, building materials, handicrafts, DIY and so on."
 asin="B08ZM4BJ7K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="18699"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="MECCANIXITY Acrylic Pipe Rigid Round Tube Clear 76mm ID 80mm OD 200mm for
 img="https://m.media-amazon.com/images/I/21JzSmlo-NL._SL500_.jpg"
 description="With high transparency, transparent acrylic tube has strong light transmittance when used in lamps and lanterns. When it is used for liquid transportation, the flow of liquid in the tube can also be clearly seen. Transparent PMMA tube is widely used for lamps and lanterns, water cooling system, building materials, handicrafts, DIY, and so on. The acrylic plastic tubing, is in size of : 76mm/2.99-inch inner dia, 80mm/3.15-inch outer dia, 200mm/8-inch total length Round PMMA tube made in PMMA material, durable and long service life; High transparency, high light transmission; Rigid Round Tubing has very high impact resistance Steps of installation:1.Prepare PMMA pipe of an appropriate size ; 2.Cut out the length you want Please Note : Please select the appropriate size of acrylic pipe, especially the size of inner diameter and outer diameter"
 asin="B09D7VCMPX"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="153"
 >}} 
 ## Is Fitbit Flex still supported?

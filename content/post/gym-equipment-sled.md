@@ -20,7 +20,7 @@ title="XPO Trainer Push Sled | BEST Indoor-Outdoor Workout Sled for Speed Agilit
 img="https://m.media-amazon.com/images/I/313rZV+oS+L._SL500_.jpg"
 description="UNLEASH YOUR FULL FITNESS POTENTIAL. Our groundbreaking redesign of the traditional weight sled isn’t just the most effective full body training equipment you’ll ever own, it’s also the easiest to use. STRENGTH TRAINING PERFECTED. No other fitness equipment on Earth guarantees such noticeable results in so little time. Because our push sled is the FIRST workout sled that resists the harder and faster you go. BOOSTS SPEED AND EXPLOSIVE POWER in all fitness training drills from rehab to crossfit and football. Use as track and field speed training equipment and in all agility training routines for a winning edge. NO SKIDDING PLATES, no surface damage and near silent. The perfect sport sled for a full body sled workout both indoors and outdoors. Removable handles for easy storage and no weight plate set needed. THE ULTIMATE WORKOUT GUARANTEED or we’ll refund you within 30 days. If our training sled doesn’t elevate your game we’ll make it right. Click ADD TO CART and push past your limits."
 asin="B07PMGGR46"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="8"
 >}} 
 {{< product 
@@ -28,7 +28,7 @@ title="Spud, Inc. Magic Carpet Sled Combo with Upper Body Strap - Army Combat PT
 img="https://m.media-amazon.com/images/I/51-DrRaF5PL._SL500_.jpg"
 description="This is the sled and strap used in the new Army Physical Fitness Testing - Includes Sled + Upper Body Strap The magic carpet is small and portable weighing under 3 lbs. Stack big weight on this sled if you are man enough as it can handle up to 500 lbs if you use hundred pound plates. The magic carpet sled with sled strap is perfect for use on turf, gym mats, or even grass. Just make sure to keep it off of rough textured surfaces like concrete, asphalt, etc."
 asin="B07P5H1S2M"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="0"
 >}} 
 {{< product 
@@ -36,7 +36,7 @@ title="Weight Sled with Harness | Weighted Drive & Drag Power Sled with Tow Stra
 img="https://m.media-amazon.com/images/I/41XvQxtJd1L._SL500_.jpg"
 description="HEAVY-DUTY, BACKPACKING WEIGHT SLED: Tough, heavy duty weight sleds for maximizing potential and athletic performance. See massive gains using this time-tested resistance training equipment. Great for team sports and strength & conditioning workouts HOLDS STANDARD WEIGHTS: Holds standard 2  Olympic iron plates of varying weight sizes. Increase the number of plates on sled to raise level of resistance COMFORTABLE BACKPACKING HARNESS: 2  padded shoulder straps on a adjustable, backpacking harness that fastens across the chest. The harness eliminates usual shoulder straining due to pulling/tugging motion and uses full body to carry weight NO PAIN, NO GAIN: Maximize your potential and see major gains in speed, agility, and strength. An absolute staple piece of conditioning equipment used by professionals and training staff in football, basketball, baseball, soccer, running, track & field, and more MULTI-SPORT EQUIPMENT: Great for home gym usage as well fitness centers and sport practice facilities and can be used on most surfaces: grass, dirt, sand, snow, and football turf"
 asin="B07TJ855PQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="5746"
 >}} 
 {{< product 
@@ -44,7 +44,7 @@ title="Rage Fitness CF-SL000 R2 Weighted Training Pull Sled, Black"
 img="https://m.media-amazon.com/images/I/31AxxiaVo4L._SL500_.jpg"
 description="The Rage Fitness Push Sled Is The Ideal Tool To Increase Your Strength And Endurance This Sled Allows You To Take Off And Add Weight Easily Throughout Your Workout Giving You The Ability To Tone And Enhance Your Entire Body With Just One Piece Of Workout Equipment Utilizes Your Existing Bumpers For A More Intense Workout"
 asin="B01N5VH6KP"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="18"
 >}} 
 {{< product 
@@ -52,7 +52,7 @@ title="Happybuy Fitness Sled Red Training Sled 21Inch Speed Training Sled for At
 img="https://m.media-amazon.com/images/I/41XzS3aufDS._SL500_.jpg"
 description="Premium Material: Made of premium iron and a black powder coat, our weight sled is sturdy, anti-rust, waterproof, and simple to clean. Black powder coating provides a superior grip. Replaceable Feet: Compared with other products, our push sled has scientific designs-it has two low pipes with dual plate horns, extra thick replaceable feet, and four pipes for placing plates. Large Weight Capacity: The maximum weight-bearing capacity of a fitness sled is 500 pounds and can be adjusted as needed. The weight plate holder is designed to accommodate standard and 2 in Olympic plates. Push/Pull/Drag: The exercise sleds are suitable for anyone and professional sports training. They can be used to push, pull, and drag in various forms to increase muscle and quadriceps strength. Apply to Different Surfaces: You can use the sled fitness on grass, carpet, concrete, and all sports turf. Multiple exercises can be achieved with one sled. It is easy to disassemble for quick transport or storage."
 asin="B07P8Z7T3B"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="564"
 >}} 
 ## Is sled pushing good for weight loss?

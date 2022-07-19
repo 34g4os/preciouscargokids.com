@@ -23,7 +23,7 @@ title="Flambeau Outdoors 5985MS-1 Lone Howler Coyote Decoy, One Size"
 img="https://m.media-amazon.com/images/I/41NpcrOdo5L._SL500_.jpg"
 description="PREDATOR HUNTING DECOY: Ultra-realistic body detail mimics the true-to-life definition of a coyote with the coloration of a mature male NUISANCE ANIMAL DETERRENT DECOY: Excellent deterrent for unwanted vermin, including rodents, geese, and smaller bird species, when placed in or near barns, gardens, orchards, ponds, etc VERSATILE DESIGN: Ultra-sturdy hard plastic construction with heavy-duty threaded leg posts and locking lugs. Features a removable leg design that allows the legs to fit conveniently in the body cavity for easy transportation or storage DETAILS & FEATURES: Includes faux fur tail with a wire backbone for easy manipulation and realistic motion in the wind, a scent pad spike on the rear leg, and poseable ears to mimic a relaxed, alert, or curious presentation FULLY ASSEMBLED SIZE: 30  L x 9  W x 25  H"
 asin="B001HRXUN4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -31,7 +31,7 @@ title="TCDesignerProducts, Coyote Silhouette Decoys, Hunting Decoys, Set of 2"
 img="https://m.media-amazon.com/images/I/51JnNHHe1LL._SL500_.jpg"
 description="Coyote Silhouette Decoys come in a set of 2. 45  wires and bolt retainers are also included. Quick and easy is assembly required; Decoys come with instructions. Two-dimensional Coyote Silhouettes each measure 23  high 37  wide. These Coyote Decoys are made of a tough and durable, but lightweight corrugated plastic material (and outdoor ink) for use in all types weather conditions. They are also printed on BOTH sides. The double wire design of these Coyote Silhouette Decoys allows for decoy motion on windy days--making them appear more realistic. Unique printed Coyote gain you huge space savings over traditional 3D shells or full body decoys; you won t need an entire trailer to haul your gear."
 asin="B08ZB8HC6H"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="451"
 >}} 
 {{< product 
@@ -39,7 +39,7 @@ title="Flambeau Outdoors 5985MS-1 Masters Series Lone Howler Coyote Decoy (Pack 
 img="https://m.media-amazon.com/images/I/41-1tI+b+oL._SL500_.jpg"
 description="Flambeau Inc."
 asin="B07QD2BCSQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2281"
 >}} 
 {{< product 
@@ -47,7 +47,7 @@ title="MOJO Outdoors Critter Predator Hunting Decoy, Great for Coyote and Bobcat
 img="https://m.media-amazon.com/images/I/41ai4nFIU2L._SL500_.jpg"
 description="IRRESISTIBLE LIVE-ACTION TO ALL PREDATORS: Most effective predator decoy on the market; light-weight, portable, simple and affordable TOP-NOTCH DECOY TECHNOLOGY: Highly visible and tantalyzing action using realistic prey-type fur that immediately attracts and holds predators’ attention REALISTIC MOVEMENT THAT BRINGS IN PREDATORS: Intermittent, cyclic action for added realism EVERYTHING YOU NEED TO START HUNTING MORE EFFECTIVELY: Operates on 4 AA batteries (not included) NICE ADDITION TO YOUR MOJO PREDATOR HUNTING ARSENAL: Add the MOJO Hawk along with the MOJO Critter to have the complete MOJO Predator System."
 asin="B000HZHYD4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -55,7 +55,7 @@ title="Flambeau Outdoors 5985MS-1 Masters Series Lone Howler Coyote Decoy (Pack 
 img="https://m.media-amazon.com/images/I/31Wvl7hGgtL._SL500_.jpg"
 description="Flambeau Inc."
 asin="B07S85ZCG7"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2281"
 >}} 
 {{< product 
@@ -63,7 +63,7 @@ title="iHunt - Electronic Predator Call with Decoy | Coyote Call with Decoy | Bl
 img="https://m.media-amazon.com/images/I/41kOQ9jg9+L._SL500_.jpg"
 description="SOUND QUALITY – The predator decoy & callers dual speakers deliver crystal clear animal sounds in multi-directions. The iHunt App has over a million downloads and many thousands user success photos to stand behind. EASY OPERATION – Perfect for the expert or novice predator hunter, no complicated programming is needed to operate this unit. The unique playlist features to let you set up your sequence before going to the field. TOP QUALITY – The iHunt Predator Decoy & Caller IHWAG delivers more sound with dual speakers and moving decoy. You will get an App with 750 calls and helpful: Solunar Times, Activity Log, GPS locator, weather forecast and more. MULTI-USE – While this caller is designed for predator hunting, disconnect the jack decoy, pop it into the storage compartment on the bottom and you are ready to use this call for any species of animal. EZ APP – Just download the Free 1-year subscription to the iHunt 750 with the code provided (Renewable each year for $9.99), unlock the calls, turn on your speaker and connect your phone by Bluetooth, set your speaker up to *50 yards away and start hunting."
 asin="B085627PDZ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="58"
 >}} 
 {{< product 
@@ -71,7 +71,7 @@ title="MOJO Outdoors Triple Threat E-Caller Predator Call Decoy, 3-Part Complete
 img="https://m.media-amazon.com/images/I/313auUYuW8L._SL500_.jpg"
 description="80 proven sounds: High quality Mojo Outdoor call with unrivaled sound. Comes with 80 calls in on-board memory. 4 hot buttons store your favorite sounds at pre-determined volume. Build your own custom sounds on any SD card for different hunts. Award winning motion: The MOJO predator decoy has won the best decoy by Predator Xtreme Magazine 7 years running High quality: Housing made of high quality PC- more durable than ABS. 300+ yard range remote for the predator decoy, signal meter indicates remote coupled to caller. No more ruined stands because remote will not work caller Get above the brush: Built in MOJO critter decoy and tripod gets decoy off the ground and the sound wave above most blockages that would distort it. Includes a standard peg with threaded insert on bottom for multiple mounting options Use: Charging port for rechargeable battery use, comes with 110/220: AC Smart Charger. Charger has light signal for charging status. Operates on 8 AA batteries (Not Included)"
 asin="B07QTVNLHS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="0"
 >}} 
 {{< product 
@@ -79,7 +79,7 @@ title="MONTANA DECOY Song Dog, brown"
 img="https://m.media-amazon.com/images/I/41v56xfVNrL._SL500_.jpg"
 description="25 ounces with the poles Built using an actual coyote photograph Folds down to 9 x3  Great for deterring unwanted geese"
 asin="B089Y896LM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1"
 >}} 
 ## What are coyotes most attracted to?

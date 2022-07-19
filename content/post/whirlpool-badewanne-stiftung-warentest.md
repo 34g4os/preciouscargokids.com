@@ -25,7 +25,7 @@ title="everydrop by Whirlpool Ice and Water Refrigerator Filter 1, EDR1RXD1, Sin
 img="https://m.media-amazon.com/images/I/317c+XdM3jL._SL500_.jpg"
 description="Make sure this fits by entering your refrigerator model number everydrop Filter 1 is the only filter approved by: Whirlpool, Maytag, Amana, KitchenAid and JennAir brands Certified to reduce 99% of lead, offering superior contaminant reduction for you and your family Reduces 28 contaminants including lead, pesticides, pharmaceuticals, and waterborne parasites (NSF 401, 53 and 42 certified) Due to a packaging refresh, packaging may vary"
 asin="B00UXG4WR8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="everydrop by Whirlpool Ice and Water Refrigerator Filter 4, EDR4RXD1, Sin
 img="https://m.media-amazon.com/images/I/317IAqOtFtL._SL500_.jpg"
 description="Make sure this fits by entering your refrigerator model number everydrop Filter 4 is the only filter approved by: Whirlpool, Maytag, Amana, KitchenAid and Jenn Air brands Certified to reduce 99% of lead, offering superior contaminant reduction for you and your family Reduces 23 contaminants including lead, pesticides, pharmaceuticals, and waterborne parasites (NSF 401, 53 and 42 certified) Due to a packaging refresh, packaging may vary"
 asin="B00UB38V2A"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="everydrop by Whirlpool Ice and Water Refrigerator Filter 2, EDR2RXD1, Sin
 img="https://m.media-amazon.com/images/I/31NokdYCZOL._SL500_.jpg"
 description="Make sure this fits by entering your refrigerator model number. every drop Filter 2 is the only filter approved by: Whirlpool, Maytag, Amana, KitchenAid and Jenn Air brands. Certified to reduce 99% of lead, offering superior contaminant reduction for you and your family. Reduces 28 contaminants including lead, pesticides, pharmaceuticals, and waterborne parasites (NSF 401, 53 and 42 certified). Due to a packaging refresh, packaging may vary"
 asin="B00VBP8QPO"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="everydrop by Whirlpool Ice and Water Refrigerator Filter 3, EDR3RXD1, Sin
 img="https://m.media-amazon.com/images/I/31Zy457VcpL._SL500_.jpg"
 description="Make sure this fits by entering your refrigerator model number everydrop Filter 3 is the only filter approved by: Whirlpool, Maytag, Amana, KitchenAid and Jenn Air brands Certified to reduce 99% of lead, offering superior contaminant reduction for you and your family Reduces 73 contaminants including lead, pesticides, pharmaceuticals, and waterborne parasites (NSF 401, 53 and 42 certified) Due to a packaging refresh, packaging may vary"
 asin="B00UB441HS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="SOL DE JANEIRO Brazilian Bum Bum Cream 240ml"
 img="https://m.media-amazon.com/images/I/41INd5+7kJL._SL500_.jpg"
 description="SMOOTHS & TIGHTENS: Fast absorbing body cream for your bum bum, legs, tummy - and all over - contains Guaraná to tighten and smooth the appearance of skin. HYDRATES & SOFTENS: Brazilian Beauty Blend of Cupuaçu Butter, Açaí Oil, and Coconut Oil softens while a light mica shimmer creates an all-over highlighting gorgeous glow. DELICIOUS FRAGRANCE: Pistachio and Salted Caramel fragranced body lotion cream. Non sticky and non greasy. FORMULATED WITHOUT: Cruelty free, vegan, gluten free, soy free, paraben free, free of artificial colorant, 5 free, 3 free, phthalate free, paraben free, no PEGs, talc free, sulfate free, mineral oil free, nut free."
 asin="B013XKHA4M"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1302"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Affresh Dishwasher Cleaner, Helps Remove Limescale and Odor-Causing Resid
 img="https://m.media-amazon.com/images/I/41f2JREvouL._SL500_.jpg"
 description="Powers away limescale and mineral buildup #1 Recommended by* Whirlpool, KitchenAid, Maytag and Amana brands (*affresh brand products and the recommending brands  products are all owned and distributed by Whirlpool Corporation) Cleans what you can t see: your machine s tub, racks, pump and valve, drain and recirculation hoses Cleans inside all dishwasher machine makes and models Use monthly or as needed to maximize machine performance* (*heavily soiled machines may require extra cleaning cycles) Septic tank safe and U.S. EPA Safer Choice Certified"
 asin="B002R0DXQE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="626"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Everydrop by Whirlpool Ice Filter, F2WC9I1, Single-Pack"
 img="https://m.media-amazon.com/images/I/31bPBvWG0zL._SL500_.jpg"
 description="Make sure this fits by entering your Ice Maker model number Everydrop ICE 2 is the only filter approved by: Whirlpool, Maytag, KitchenAid and JennAir brands. Certified to reduce 99% of lead, offering premium contaminant reduction for you and your family Offers clean, fresh tasting ice. Used in 50 Ib ice maker machines For the cleanest ice, replace your filter every nine months (to maximize contaminant reduction) The only genuine replacement for F2WC9I1 NSF Certified to reduce lead, chlorine, taste, odor, and scale build up Due to a packaging refresh, packaging may vary"
 asin="B00V86MCCY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Duracell - CopperTop AAA Alkaline Batteries - Long Lasting, All-Purpose T
 img="https://m.media-amazon.com/images/I/41mCJTmjHyL._SL500_.jpg"
 description="Duracell AAA Batteries: The Duracell CopperTop Triple A alkaline battery is designed for use in household items like remotes, toys, and more. Duracell guarantees these batteries against defects in material and workmanship. Should any device be damaged due to a battery defect, we will repair or replace it at our option. Long Lasting Power: Duracell alkaline batteries are designed and developed for long lasting performance. Guaranteed for 10 years in Storage: Duracell AAA alkaline batteries are guaranteed for 10 years in storage. Duracell CopperTop batteries are available in Double A (AA), Triple A (AAA), C, D and 9V sizes."
 asin="B006CSQXLO"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2324"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Filterlogic UKF8001 Replacement for EveryDrop by Whirlpool Refrigerator W
 img="https://m.media-amazon.com/images/I/41ms5Oft+TL._SL500_.jpg"
 description="The Filterlogic refrigerator water filter is certified by NSF 42 and 372 standards. The innovative design and advanced materials reduce chlorine, taste and odor from your water source, leaving you with healthier water and a cleaner, fresher taste. Premium filter material: Here at Filterlogic, we adopt 100% natural coconut shell carbon block containing twice the surface area and more micropores than an inferior carbon block. Maximum filtration: The Filterlogic refrigerator filter reduce a wide range of harmful substances from your water source including chlorine and all other major impurities, as certified by an independent, third-party laboratory. Safe materials: We select exclusively BPA-free and food-grade filter materials that are NSF 372 certified lead-free. Crisp and fresh water: With our 100% natural coconut shell carbon block, more impurities can be absorbed than low-priced and mixed carbon block. Filterlogic refrigerator filter significantly improves the taste of drinking water to provide pure-tasting water. Perfect fit: Filterlogic is constructed with precise measurement technology, used to perfectly reproduce the original scale parameters of the original brand filter with advanced industrial automation equipment. We can promise that there is no water leakage. The filter can be easily installed in minutes without tools. Monthly install stickers: The set of our month install stickers included with your purchase assists you in keeping track of the filter lifespan without writing it on your calendar. Each Filterlogic filter functions optimally for 6 months or 300 gallons, which will vary based on water condition. Change it on time to ensure fresh-tasting water. High standards, high integrity: We oversee each step of the manufacturing process. Quality remains our responsibility when the filter leaves the factory. Our 24/7 customer service team can provide solutions to your water purification needs at any time. Replacement models: Maytag UKF8001, EveryDrop Filter 4, EDR4RXD1, EDR4RXD2, Whirlpool 4396395, UKF8001AXX-750, UKF8001AXX-200, Amana UKF8001P, UKF8001AXX, UKF9001, Sears or Kenmore 9006, 46-9006, 9992, 9005, 9084, 469084, Bosch BORPLFTR20, Viking RWFFR, 67003523-750, 67006475, WF295, Puriclean II. Replacement models: FMM-2, WF-UKF8001, 9084, Wrx735sdbm, Wrx735sdbm00, Wrx735sdbm02, Wrf555sdfz09, Wrx735sdhz, Wrx735sdhz02, Mfi2570fez, Msd2651heb, Mpf15090, Krfc300ess01, Kbfs25etss01, PH21500, 12589203, GI6FDRXXY07, W10181835, CWMF004, EBL7770, PL-400, CLCH101, PG-8001, SGF-M9, SGF-M10, AQF-FF07, WS607B, MB-F07, R-9006, RWF1040."
 asin="B078VZ7ZJR"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="8793"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Whirlpool WHEERF Replacement Water Filter Cartridges White, 9.8 x 2.5 x 2
 img="https://m.media-amazon.com/images/I/41MoIk4p2-L._SL500_.jpg"
 description="Replacement Whirlpool reverse osmosis pre/post filter 2 pack (fits systems WHAROS5, WHAPSRO & WHER25) System is certified to reduce numerous contaminants including chlorine taste and odor, sediment, cysts, lead, chemicals, and dissolved solids 6 month filter life - replace your systems pre and post filter every 6 months. It is essential to change your filters on time to ensure your system is working properly Ultraease filter replacement - change filter in seconds with just a quarter turn – no hassles, no mess, no need to turn off your water supply Made In The USA"
 asin="B001PVCTLQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## Wie bekomme ich mein Whirlpoolwasser wieder klar?

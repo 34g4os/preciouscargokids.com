@@ -25,7 +25,7 @@ title="Kanu Surf Boys  Short Sleeve UPF 50+ Rashguard Swim Shirt, Solid Charcoal
 img="https://m.media-amazon.com/images/I/41qIGCalQjL._SL500_.jpg"
 description="Upf 50+ rating to block suns harmful rays Looser comfortable tee fit Machine wash"
 asin="B00GFHD2ZM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Kanu Surf Boy s Platinum Long-Sleeve Rashguard, Navy, Medium (10)"
 img="https://m.media-amazon.com/images/I/41t87GeKKaL._SL500_.jpg"
 description="Long-sleeve rashguard featuring mock neck and logo emblem at center chest UPF 50+ rating"
 asin="B004FGMYKE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="TFJH E Boys Long Sleeve Swim Shirt UPF 50+ Rash Guard Sun Shirt Beachwear
 img="https://m.media-amazon.com/images/I/41O-oaktWHL._SL500_.jpg"
 description="TFJH E s original Long Sleeve Rashguard Suit, special for Swimming, Surfing , Boating,Beach and other water sports 4-way stretch fabrics, lightweight, breathable and quick drying Rated UPF 50+ ... Blocking more than 97% of the sun s harmful UV radiation. All protection is from weave of fabric and NO zinc or chemicals are added to the fabric Size tag may have different name between different manufacture, so we have size chart for your refer in the picture , please check it before purchasing to choose the suitable one for your girl Recommended hand wash in cold water ,no bleach, hang dry in Shade"
 asin="B07QK6CVWQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="345"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Amazon Essentials Girls  Long-Sleeve Rashguard, Aqua Blue, Small"
 img="https://m.media-amazon.com/images/I/31lWawqK70L._SL500_.jpg"
 description="Quick-dry knit fabric with UPF 50 for sun protection Sun-protective design Long-sleeve design Full coverage An Amazon brand"
 asin="B07JZYSWT7"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Amazon Essentials Kids Boys UPF 50+ Long-Sleeve Rashguards, Blue, Medium"
 img="https://m.media-amazon.com/images/I/41IN4-T9XnL._SL500_.jpg"
 description="Quick-dry knit fabric with UPF 50 for sun protection SPF-50 sun protection Full coverage Long-sleeve design An Amazon brand"
 asin="B07K234X69"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="O Neill Youth Basic Skins UPF 50+ Long Sleeve Sun Shirt, White, 8"
 img="https://m.media-amazon.com/images/I/31csGCIDHzL._SL500_.jpg"
 description="Skin Cancer Foundation Recommended Product; UPF 50+ Ultraviolet Protection Perfect For Surfing, Swimming, Paddle Sports, Boating, And Beach Days Comfortable Yet Durable 6oz Polyester/Spandex Construction Minimal Seam Placement For Maximum Rash Protection Slim Fit: Fits Close to Body, But Is Not Tight"
 asin="B00GD23AM4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Kanu Surf womens Long Sleeve Rashguard Two Piece Swim Rash Guard Set, Cha
 img="https://m.media-amazon.com/images/I/51G-G5p2w-L._SL500_.jpg"
 description="High quality UPF 50+ nylon tricot Matching swimwear, rash guard and board shorts available Comfortable and durable fabrics will make this a favorite piece for the summer Available in sizes 2T through 16 weave_type: Knit"
 asin="B07NZZ81KB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Body Glove Boys 2-Piece UPF 50+ Rash Guard Swimsuit Set (Little Boys), Si
 img="https://m.media-amazon.com/images/I/51XcwaQZqeL._SL500_.jpg"
 description="Short Sleeve Rashguard: This swim shirt will protect your boy against rashes caused by abrasion or sunburn from extended time outdoors Matching Bathing Suit Shorts: The elastic waistband and mesh lining hold these swim trunks in place; He’ll move with ease in the water Variety of Colors and Graphics: Choose from summer hues and tropical patterns; Your little beach bum can look smart wherever he goes Perfect for Vacation: Don’t let sunburn spoil your good time; Dress him in this skin-friendly clothing for protection from harmful UVA and UVB rays Easy Care Machine Wash, Tumble Dry; Please Reference Product Description for More Details"
 asin="B08CLTM4GV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="4279"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Body Glove Boys  Rash Guard Shirt - UPF +50 Sun Protection Swim Shirt, Sh
 img="https://m.media-amazon.com/images/I/31TC76xrNAS._SL500_.jpg"
 description="PROTECTIVE SWIMWEAR FOR BIG BOYS: Skin friendly fabric in this rash guard shirt is perfect for little boys  delicate skin BOYS SWIM SHIRT: Simple colors and timless designs; He’ll stand out wherever he goes PERFECT FIT: Highly stretchable material keeps these swim trunks in place; He’ll move with ease in the water and in the sand SUN PROTECTION: UPF +50 swim shirt rash guard for boys offers protection against the suns harmful rays; he ll play safely and you ll worry less about sunburn EASY CARE: Machine Wash, Tumble Dry; Please Reference the Product Description for More Details"
 asin="B08YZ55HXM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="4279"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Kanu Surf Boys  Haywire UPF 50+ Sun Protective Rashguard Swim Shirt, Aval
 img="https://m.media-amazon.com/images/I/41XnmgXt86L._SL500_.jpg"
 description="Upf 50+ rating on rashguards and swim shirts for great sun protection Available in men s sizes S-XXL and boys 2-16 so the whole family can suit up together Comfortable fit Matching swim trunks available Kanu Surf quick dry technology Fit Type: Regular Sleeve Type: Short Sleeve Weave Type: Knit"
 asin="B07NDWSDCF"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## Is it weird to wear a rashguard in the pool?

@@ -21,7 +21,7 @@ title="Sweet Coppa Alps 3 Pounds Approx."
 img="https://m.media-amazon.com/images/I/51iPjutuP4L._SL500_.jpg"
 description="2.5 pound (1.1 kilogram) - Weight Approximates - Product of U.S.A. Ingredients: Pork, salt, dextrose, spices, sodium nitrite Sliced thin, it is a classic on a plate of salami and is perfect for sandwiches High Standards of Quality Control - We Ship with Ice Packs - Ships from New York During summer months ice packs might melt and the product may arrive to you warm. We recommend refrigerating immediately upon arrival and consume it after a few hours."
 asin="B005OTIPFO"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="317"
 >}} 
 {{< product 
@@ -29,7 +29,7 @@ title="Coppa Capicola- SLICED 3 packages"
 img="https://m.media-amazon.com/images/I/41cGucUxJVL._SL500_.jpg"
 description="Dry cured pork Capicola Imported from Italy Gluten free Rich, earthy flavor Pre-Sliced thin"
 asin="B091FZR71C"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="129"
 >}} 
 {{< product 
@@ -37,7 +37,7 @@ title="Volpi Dry Cured Hot Coppa"
 img="https://m.media-amazon.com/images/I/41GH9uHmhwL._SL500_.jpg"
 description="Traditional, air-dried pork, mildly flavored with black pepper and all spice. No nitrates or nitrites added, Gluten Free Weighs approximately 2 pounds."
 asin="B000VZLH5Q"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="20"
 >}} 
 {{< product 
@@ -45,7 +45,7 @@ title="Capicola Gabagool Italian Flag Funny Description T-Shirt"
 img="https://m.media-amazon.com/images/I/31DyToqDUeL._SL500_.jpg"
 description="Capicola or gabigool? It s what s for dinner in Italy, Brooklyn and New Jersey. I ll Have The Gabagool! Capicola Gabagool Italian Flag Funny Description Lightweight, Classic fit, Double-needle sleeve and bottom hem"
 asin="B08DB4PLJZ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## Is capicola ham or salami?

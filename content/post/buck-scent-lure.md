@@ -25,7 +25,7 @@ title="Nationwide Scents Peak Estrus Rut Scent for Deer Hunting - Deer Urine Buc
 img="https://m.media-amazon.com/images/I/41IMGM-R4jS._SL500_.jpg"
 description="ATTRACT BUCKS FASTER TO YOUR STAND: Hunters agree, a doe in heat is pretty much the fastest way to lure a buck to your stand. Our Estrus scent urine buck attractant contains PEAK estrus levels replicating a doe in heat. Use in scent drags and mock scrapes in early, rut and late season. Spray around your stand to mask human scent. SAVE TIME, HASSLE AND MONEY: It’s so much faster and easier to just carry a few ounces of Peak Estrus deer hunting scent in your pocket than set out food plots, bait piles and mineral sites. Using our doe estrous urine lets you move your attractant to new spots so deer don’t catch on to you! WIN THE LOCAL BUCK POLL THIS SEASON, USE THE DEER URINE THAT WORKS! Our fresh doe estrus urine scent is collected at peak actual estrus resulting in the closest possible replication of live scent. This bottle of deer rut scent buck lure will powerfully attract bucks FRESH DEER URINE IS THE SECRET: Our recipe: 500 live whitetail deer plus state-of-the-art stainless-steel collection facilities produce deer urine that exceeds USDA and ATA Deer Protection Guidelines. We collect our deer urine fresh to give you the most powerful deer scent buck lure available LOVE IT, OR YOUR MONEY BACK: Since our doe urine scent is the purest and highest quality, we’re sure you’re going to love it. We stand by our product! So if for any reason you’re not happy, by all means, contact us! We’ll make it right!"
 asin="B073V6YS2L"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="225"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Tinks Doe-in-Rut #69 Buck Lure 4 oz."
 img="https://m.media-amazon.com/images/I/41HK9YY+31L._SL500_.jpg"
 description="Natural doe estrous;Collected from live whitetails during the estrous cycle;Tink s special ingredient to attract bucks"
 asin="B0006A4BSG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="25"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Tink s Power Scrape Starter | 4 Oz Bottle | Hunting Accessories, Mock Scr
 img="https://m.media-amazon.com/images/I/41AQwt+KIWL._SL500_.jpg"
 description="TINK’S POWER SCRAPE: This Tink’s power pack comes with the necessities for fall. Includes a Scrape Bomb Dripper and a 4 Fl Oz. bottle of the Power Scrape Mock Scrape Starter. For use on natural or mock scrapes. SYNTHETIC DEER LURE: Send a dominant buck into a territorial rage with Tink’s Power Scrape Mock Scrape Starter Deer Lure. A powerful synthetic deer lure, Power Scrape Mock Scrape Starter provides the wonderful lasting ability. USE ON MOCK AND ACTIVE SCRAPES: Appealing to a buck s social ranking and dominance, this lure can influence travel patterns when used on mock and active scrapes. 4 OUNCE BOTTLE: Includes one 4 ounce bottle of deer attractant and that are easy to use and fit into hunting packs, backpacks, jacket pockets for convenience. SCRAPE BOMB: Includes a string to hang on trees and branches in the woods. The Tink’s scent bomb only drips during hunting hours. A necessity for your deer hunting accessories."
 asin="B005BSMF1I"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="247"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Tink s Trophy 100% Buck Urine | 1 Oz Bottle | All Season Scent Lure, Buck
 img="https://m.media-amazon.com/images/I/513TlMbdDwL._SL500_.jpg"
 description="Easy to use Squirt Top Ultimate All Season deer lure Induces territorial challenge Excellent to use when rattling or grunting Should be in every hunters bag"
 asin="B000H4PKJA"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Jackies Deer Lures Buck Pre Orbital Gland, 2 oz, Blue (165)"
 img="https://m.media-amazon.com/images/I/41fb7BLk23L._SL500_.jpg"
 description="100 Percent Pure Whitetail Urine Bottled Fresh Contains Buck Pre Orbital Gland Country Of Origin: United States Sport type: Hunting"
 asin="B00LK4UYUG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="TINK S Trophy Buck and Scent Bomb Combo - 2 Ounce"
 img="https://m.media-amazon.com/images/I/41GLy669-RS._SL500_.jpg"
 description="100% NATURAL DOMINANT BUCK URINE: The ultimate all season deer lure USE DURING PRE-RUT AND RUT SEASONS: Rutting order creates a territorial challenge to other bucks in the area DEER CALLS: Great to use when rattling or grunting EASY TO USE: Convenient Squirt Top SCENT BOMB: Use with buck lure to keep fresh lure in the air to attract more bucks to your hunting location"
 asin="B0010G93GK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="247"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Nationwide Scents Scrape Lure Deer Attractant Urine | Pure Active Scrape 
 img="https://m.media-amazon.com/images/I/41sPdzMY-rL._SL500_.jpg"
 description="ATTRACT BUCKS FASTER TO YOUR STAND: Our Scrape Lure will draw both mature and young bucks defending their territory. Use in scent drags and mock scrapes in early, rut and late season. Works in all scent drippers. Spray around your stand to cover the human scent and for calming scent to create a bedding area for does. SAVE TIME, HASSLE AND MONEY: It’s so much faster and easier to just carry a few ounces of Buck Scrape in your pocket than set out food plots, bait piles and mineral sites. Using our unfrozen scrape lets you move your attractant to new spots so deer don’t catch on to you! WIN THE LOCAL BUCK POLL THIS SEASON, USE THE DEER SCRAPE THAT WORKS! This bottle of Nationwide Scents Deer Scrape Lure is a full 8 ounces - which is up to 4 times the amount of other scents. You get a lower price per ounce and more hunts per bottle FRESH DEER SCRAPE IS THE SECRET: Our recipe: 600 live whitetail deer plus state-of-the-art stainless-steel collection facilities produce deer urine that exceeds USDA and ATA Deer Protection Guidelines. We collect our deer scrape fresh this season to give you the most powerful deer lure available LOVE IT, OR YOUR MONEY BACK: Since our buck scrape scent is the purest and highest quality, we’re sure you’re going to love it. We stand by our product! So if for any reason you’re not happy, by all means, contact us! We’ll make it right!"
 asin="B073V6DJ8S"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="225"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Nationwide Scents Buck Urine for Hunting – Deer Attractants for Whiteta
 img="https://m.media-amazon.com/images/I/41AnxC6gi2L._SL500_.jpg"
 description="Attract Bucks to Your Stand: Hunters concur, challenging a buck is the fastest way to lure them to your stand. Our buck urine deer hunting scent will draw both mature and young bucks defending their territory. Use the deer urine for hunting in scent drags and mock scrapes in - early, rut, and late-season - or spray around your stand to cover your human scent. Save Time, Hassle, and Money: It’s so much easier to just carry a few ounces of buck urine deer lure in your pocket than to set out food plots, bait piles, and mineral sites. Using our buck urine deer hunting gear lets you move your attractant to new spots so deer don’t catch on to you! Hide Your Human Scent: Scent control for hunting is very important in all aspects of your hunt, from scouting to checking trail cameras to bagging the prey. If you’re going to fool a deer’s nose with buck attractants for whitetail deer, you also need to block your scent. Spray this hunting scent eliminator around your stand to hide your human scent in the field. Fresh Deer Urine is the Secret: Our 500 live whitetail deer and state-of-the-art stainless-steel collection facilities produce deer urine for our scent eliminator for hunting that exceeds USDA and ATA Deer Protection Guidelines. We collect our deer urine fresh to give you the most powerful deer scent blocker available. Full Satisfaction Assurance: Since our buck urine hunting deer attractant is of the purest and highest quality, we’re sure you’re going to love it. We stand by our buck urine for hunting scent control! So if for any reason you’re not happy, by all means, contact us! We’ll make it right!"
 asin="B073V7SXK8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="225"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="TINK S Scent Bomb and #69 Doe-in-Rut Buck Lure | Use as a Scent Lure, Dee
 img="https://m.media-amazon.com/images/I/41uQkXOv6ML._SL500_.jpg"
 description="#69 DOE-IN-RUT BUCK LURE: The original formula is America’s #1 Buck Lure USE DURING PRE-RUT AND RUT SEASONS: Lures bucks that are looking for a doe to breed EASY TO USE: Convenient Squirt Top SCENT BOMB: Use with buck lure to keep fresh lure in the air to attract more bucks to your hunting location INCLUDES: Tink’s 2 Ounce #69 Doe-In-Rut Buck Lure Bottle & 1 Ounce Scent Bomb"
 asin="B000VCL8QW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="95"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="TINK S #69 Doe-in-Rut Buck Lure | 1 Fl Oz Glass Bottle | 2 Pack | 100% Na
 img="https://m.media-amazon.com/images/I/41GZbEGw0wS._SL500_.jpg"
 description="TINK’S NATURAL DOE ESTROUS: Our #1 selling Original formula of natural doe estrous is essential for a successful hunt. The quality formula is 100% natural and collected from live whitetail during their estrous cycle. EASY TO USE: The secure closing cap seals to help prevent spillage and keep the whitetail deer scent fresh. while the easy to use squirt top makes application accurate and precise every time. FOR THE AVID HUNTER: Make every hunt a good one with Tink’s Doe-in-Rut quality controlled formula natural doe estrous urine. It’s perfect for use as a deer attractant when you’re out in the woods. #69 DOE-IN-RUT: This #69 scent works great as an all season deer lure. Tink s special ingredients help attract bucks during the pre-rut and rut and is more effective than a synthetic urine kit for hunting. USE WITH TINK’S HUNTING ACCESSORIES: Use with drag rags, boot pads, scent wicks, sponges, Tink’s Scent Bombs, or in scrapes for optimal performance in the woods."
 asin="B01J7UQFWK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="247"
 >}} 
 ## What scent attracts deer the most?

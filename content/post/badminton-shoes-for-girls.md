@@ -21,7 +21,7 @@ title="YONEX Power Cushion 36 Junior Indoor Shoe (White/Sky Blue) (13K)(18cm)"
 img="https://m.media-amazon.com/images/I/31cgXPCcZTL._SL500_.jpg"
 description="Affordable shoe with reliable traction and cushioning for the feet and joints, junior fit. Color: White / Blue Size: 18cm (13K) Upper: P.U. Leather, Polyester Mesh / Midsole: Power Cushion, E.V.A. Outsole: Rubber"
 asin="B08DZRYFR7"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="149"
 >}} 
 {{< product 
@@ -29,7 +29,7 @@ title="Wilson KAOS Junior Tennis shoes, White/Pearl Blue/Dazzling Blue, 11"
 img="https://m.media-amazon.com/images/I/41WzzZFUztL._SL500_.jpg"
 description="Df2 provides cushioned court feel, yielding compromise between comfort and quick performance (Df2 = HT drop 9 mm) FS delivers explositivity to competitive players Laceless hook & loop closure offers easy, comfortable fit with bungee material and velcro strap R-dst augmented cushioning and rebound form comfort and responsiveness Duralast consists of a high-density, consummately durable rubber compound that provides abrasion resistance and maximum traction on all surfaces"
 asin="B07FZ3VCNR"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="197"
 >}} 
 {{< product 
@@ -37,7 +37,7 @@ title="YONEX Eclipsion X Badminton Shoe, Turquoise/Yellow (10)"
 img="https://m.media-amazon.com/images/I/41zb70snfnL._SL500_.jpg"
 description="Color: Turquoise/Yellow Upper: Durable Skin Midsole: ToughBrid Light Power Cushion Power Graphite Sheet Power Cushion + Outsole: Rubber"
 asin="B07NDZNZ9Z"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="149"
 >}} 
 {{< product 
@@ -45,7 +45,7 @@ title="ASICS Kid s Upcourt 3 Grade School Volleyball Shoes, 7, White/Black"
 img="https://m.media-amazon.com/images/I/413v1H-3NJL._SL500_.jpg"
 description="EVA Midsole - EVA Sockliner - Removable Sockliner - A sockliner which can be removed to accommodate a medical orthotic."
 asin="B077QHW528"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="31"
 >}} 
 {{< product 
@@ -53,7 +53,7 @@ title="adidas Ligra 6 Volleyball Shoe, White/White/Gum, 1.5 US Unisex Little Kid
 img="https://m.media-amazon.com/images/I/412VktyoFEL._SL500_.jpg"
 description="Durable Adiwear outsole, Mesh lining Lace closure Mesh upper with synthetic overlay, Reinforced loopholes Durable Adiwear outsole, Mesh lining"
 asin="B07KXF84DN"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2199"
 >}} 
 {{< product 
@@ -61,7 +61,7 @@ title="Youcanup Casual Training Badminton Shoes Girls Tennis Shoes Women Court S
 img="https://m.media-amazon.com/images/I/41NQfMq367L._SL500_.jpg"
 description="Material: Md & Natural Rubber Sole, Super Soft Microfiber Mesh Upper. Md Rubber Sole Can Effectively Relieve The Pressure Caused By Contact With The Ground, Give You The Best Effect On The Tennis Court. Breathable Microfiber Mesh Upper Can Keep Your Feet Clean And Cool, Comfortable All Day. Ergonomic Curved Design, Cushioning And Decompression Comfort, Protect Your Feet And Ensure Your Feet Are In The Correct Position To Bring You The Best On-Court Experience. Casual Professional Tennis Shoes Suitable For Tennis Squash Volleyball Racquetball Pickleball Badminton, It Provides You With All The Support And Comfort You Need To Stay Strong."
 asin="B0B1QP8PBW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="72"
 >}} 
 ## Can you play badminton without shoes?

@@ -18,7 +18,7 @@ title="Dinosaur Backpack for Toddler Kids Boys,VASCHY Little Kid Preschool Backp
 img="https://m.media-amazon.com/images/I/51Tlk8dmIAL._SL500_.jpg"
 description="1.UNIQUE DESIGN:Inspired by the artwork of a loving artist, our exclusive collection channels her spontaneous use of color and childlike sense of wonder. The collection of the kids backpack captures the spirits of imagination and fashion which inspire your little one to own their dreams. 2.EASY TO ORGANIZE:The preschool backpack features easy to open and close zipper tags, a main zippered pocket, two side pocket for water and mike, top loops for storage and other carrying options It s the most efficient and playfully designed collection around.Smooth SBS zippers for the little kids to open and close easily.Top loops for storage or other carrying options. 3.LARGE CAPACITY: 11x4.3x14.6inch/28x11x37cm(WxDxH),weighs 0.77LB/0.35KG.Side pockets:4.3x5.5inch/11x14cm.Capacity:11.5L.Inner divider fits the A4 tablet, activity books, etc.holds a lunch bag, two small notebooks, two books and a water bottle. It’s been a handy way of keeping their belongings (journals, books, collected treasures, etc.) organised 4.LIGHTWEIGHT:The preschoolder backpack is made of durable water-resistant polyester which is lightweight and easy to clean.The child-size backpack is perfect for toddlers going to preschool or play dates.The adjustable padded shoulder straps offer support and comfort while the adjustable chest strap stabilizes the load throughout the day s activities. 5.PERFECT GIFT:Recommended for children 2-years of age and up.The small backpack is a perfect gift for the lovely children."
 asin="B07BPRDCLB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="533"
 >}} 
 {{< product 
@@ -26,7 +26,7 @@ title="ZHUANNIAN Kids Toddlers Dinosaur Backpack with Safety Leash for Boys Girl
 img="https://m.media-amazon.com/images/I/41yu2CaZ1LL._SL500_.jpg"
 description="✅ENJOY HAPPY TIME - The 3D Figure Dinosaur Backpack is designed for more cuteness and for your kid to have fun. It’s perfect for zoo, park, airport, trip, fairs, museums, more crowded areas. ✅SAFETY COMES FIRST – This Dinosaur Backpack comes with a detachable leash to keep your kid safe and stay nearby. Hold the leash in case your kid gets lost or suddenly runs into danger. ✅LIGHT & COMFORTABLE – Made of nylon and canvas. Light-Weighted and easy-to-clean. The backpack won’t be a burden on your kid’s shoulder. ✅KEEP VARIOUS STUFF – Your kid would love to wear this backpack and carry his/her own things like diapers, wipes, toys, snacks, sippy cup and change of clothes. ✅PERFECT TODDLER SIZE - The backpack is 8L x 4W x 10H inches,perfect fit for toddler kids of 1-5 years. The straps can be easily adjusted to fit your kid’s size. Have fun being a cute litter dinosaur!"
 asin="B01DXDQBK8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="319"
 >}} 
 {{< product 
@@ -34,7 +34,7 @@ title="Fenrici Kids Backpack for Girls, Boys, Teens, Recycled School Bag With Pa
 img="https://m.media-amazon.com/images/I/41Dn4B0ki0S._SL500_.jpg"
 description="SPACIOUS COMPARTMENTS: Large enough to fit books, binders, and up to an 18” laptops, but small enough to be comfortably wearable for Kids and Adults. Contains two internal compartments, inner and outer zipper pockets, and an external mesh water bottle pocket. ULTRA DURABLE: We use 900-denier, heavy-duty canvas, compared to 600-denier used by most national brands. Our zippers are quality tested to stand up to daily use and we stand behind them with a no broken zipper promise. If your zipper fails, reach out and we’ll make it right. 360° LAPTOP PROTECTION: Unlike most top brands, we have a padded bottom, reinforced back panel, and sturdy internal laptop sleeve to give your tech all-around protection. The laptop sleeve can fit your laptops, ipads, Chromebooks, and all types of educational tablets PLANET-FRIENDLY: Our recycled material is an earth-friendly alternative that helps close the loop on fabric waste. We also invest in durable materials and quality construction so you won t have to buy a new knapsack every year, further reducing waste YOUR PURCHASE HAS AN IMPACT: For every Fenrici product you purchase, we donate a portion of the proceeds to the non-profit organization Global Genes to fund the research and education for childhood rare diseases. We partner with brave kids and families to share the stories of determination, hope, and selflessness."
 asin="B094T9VX33"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="710"
 >}} 
 ## Are coyote decoys worth it?

@@ -45,7 +45,7 @@ title="FungLam 4x6 Direct Thermal Shipping Labels, 20 Rolls with 250 Labels/Roll
 img="https://m.media-amazon.com/images/I/411Hf5t8zPL._SL500_.jpg"
 description="Label size: 4   x 6  , 1  core, with perforated line 250 labels per roll, total 20 rolls = 5000 labels Self-adhesive just Peel & Stick High Quality Direct Thermal Material Compatible Printers: FungLam thermal labels are compatible with Zebra, Rollo, MUNBYN, Arkscan, MFLABEL, iDPRT, AOBIO, BESTEASY, Sato, Intermec, Datamax, Printronix, and many other direct thermal printers. (NOT Compatible With DYMO and Brother Printer)"
 asin="B072HSLN5Z"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="723"
 >}} 
 {{< product 
@@ -53,7 +53,7 @@ title="MFLABEL® 4 Rolls of 450 Direct Thermal Shipping Labels 4x6 for Zebra 284
 img="https://m.media-amazon.com/images/I/41Dfqle3JFL._SL500_.jpg"
 description="Self-Adhesive, Peel and stick. Size 4  x 6  , 1  Core, 450 labels per roll. Compatible Zebra 2844, Eltron 2844, Zebra ZP-450, ZP-500, ZP-505. With premium raw material Minimum application temperature: 50℉; Service temperature range: -59℉~+149℉"
 asin="B00SY1TOFY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="808"
 >}} 
 {{< product 
@@ -61,7 +61,7 @@ title="MUNBYN 4 x6  Direct Thermal Shipping Label Compatible with DYMO LabelWrit
 img="https://m.media-amazon.com/images/I/41gWFoxSQfL._SL500_.jpg"
 description="[ Authentic MUNBYN Labels ] 4 in x 6 in (104mm x 159mm) - 220 Labels/Roll - Replacement for DYMO extra-large LW 1744907 1755120 1951462 shipping labels. [ Compatibility ]👍100% compatible with DYMO LabelWriter 4XL printer, MUNBYN, and most thermal printers. NOTE: Not compatible with DYMO 450 and 5XL. It is only suitable for thermal printers and NOT for laser or inkjet printers. [ BPA/BPS FREE ] BPA (Bisphenol A) and BPS are industrial chemicals.MUNBYN paper has passed RoHs and other certifications. The paper doesn’t contain any carcinogens like BPA or BPS. [ Fade Resistant & Reliable ] The thermal labels are made of upgrade material that prints crystal clear images and easy-to-read barcodes. brighter than the leading brand and significant resistance to smudges and scratches. [ Ultra-Strong Adhesive ] Peel-and-stick extra-large labels with strong self-adhesive backing. They use premium-grade and powerful adhesive enabling each label to long-time stick to any packaging surface tightly. [ Quality-Our Priority ] MUNBYN Provides free lifetime customer support via live chat, phone calls, emails, and remote-desktop operations. All products bear our 100% satisfaction promise. [ Index Hole ] A location hole in the middle of every 2 labels to position labels and better identification and align the paper. Tips: A quick upward force tear from the perforated end is the most efficient way to get a neat label. [ Convenient and Cost-Effective ] print with direct thermal printing technology to make shipping out packages a breeze - no ink or toner required. [ Multi-platform Compatible ] Print shipping labels and internet postage labels for transportation platform and e-commerce platform.Such as FedEx,USPS,UPS,Shopify,Etsy,Amazon,eBay,PayPal,Poshmark,Depop,Mercari et."
 asin="B08M3B6FXH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="791"
 >}} 
 {{< product 
@@ -69,7 +69,7 @@ title="Aegis Adhesives - 2 ¼” X 1 ¼” Direct Thermal Labels for UPC Barcode
 img="https://m.media-amazon.com/images/I/41MDNoWInBL._SL500_.jpg"
 description="2.25 X 1.25 Inch - Direct Thermal Labels - 1” Core, 12 Rolls / Case, 1,000 Labels / Roll. Compatible with Direct Thermal & Thermal Transfer Desktop Printers. Quality - Our Priority: Smudge-Free & Fade-Resistant labels. Print darker & sharper barcode UPC labels that permanently adhere to virtually any surface. Perfect for FBA and as return address labels - be confident that your mail will reach its destination safely. Perfect for Business: Perforated between labels for easy tear & distribution. Avoid time-consuming printer machine issues such as label jams and misfeeds. Compatible with Zebra Desktop Printers: LP2824 , LP2844 , TLP2824 , TLP2844 , ZD410 , ZD420 , ZD500 , ZD620 , ZP450 , ZP500 , ZP505 , GC420d , GC420t , GK420d , GK420t , GX420d , GX420t , GX430t & More! Compatible with Rollo Label Printers."
 asin="B01GJFRNHM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2718"
 >}} 
 {{< product 
@@ -77,7 +77,7 @@ title="Hybsk 3x2 inch Direct Thermal Labels for Barcodes, Address, Compatible wi
 img="https://m.media-amazon.com/images/I/21y9zEcSDSL._SL500_.jpg"
 description="【SIZE】: 3  x2   | 1.5  Core | 500 Labels per Roll 【GOOD COMPATIBILITY】: Ideal For Your Zebra LP 2844, LP 2843, LP2844-Z, ZP-450, ZP-500, ZP-505 and Many More Desktop Printers.DO NOT SUPPORT DYMO! 【HIGH QUALITY】: These thermal label paper are strong self-adhesive, waterproof ,oil-proof , BPA&BPS Free, clear printing and writable. They will be a good assistant in your business & life. 【WIDE APPLICATION】: The thermal label can be used for QR code printer label, shipping labels,classified label, Size label, laboratory number labeling, sorting your shoes, bags, and clothes, etc. 【TEMPERATURE PARAMETER】: Minimum application temperature: 50℉; Service temperature range: -59℉~+149℉"
 asin="B07V66S5NF"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="635"
 >}} 
 {{< product 
@@ -85,7 +85,7 @@ title="MFLABEL 12 Rolls of 1000 2-1/4 x 1-1/4 Inch Direct Thermal Perforated Shi
 img="https://m.media-amazon.com/images/I/31eZY7zhkNL._SL500_.jpg"
 description="Size: 2.25 x1.25 , 1  core 1,000 labels per roll, total 12,000 labels Compatible with Zebra, Fargo, Elton, Datamax, Sato, Intermec, NEX and other direct thermal printers Exceptional print quality, strength, opacity and brightness Minimum application temperature: 50℉; Service temperature range: -59℉~+149℉"
 asin="B01DXEQC88"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="808"
 >}} 
 {{< product 
@@ -93,7 +93,7 @@ title="ROLLO Direct Thermal 2x1 Barcode Labels (Roll of 1,000 Labels) - Commerci
 img="https://m.media-amazon.com/images/I/31q+XkpN20L._SL500_.jpg"
 description="1,000 Direct Thermal Labels per Pack Compatible with Rollo Printer Perforated for Easy Tear-off Size: 2  x 1  Made in USA"
 asin="B08NDMLGDB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="677"
 >}} 
 {{< product 
@@ -101,7 +101,7 @@ title="Methdic 4x6 Direct Thermal Shipping Labels for UPS USPS 250 Labels(2 Roll
 img="https://m.media-amazon.com/images/I/41i4EGybg8L._SL500_.jpg"
 description="Size: 4x6 inch , 40mm Core (No black spots and perforations, incompatible with Dymo and Brother) Package includes: 2 rolls ,250 of 4   x 6   labels Applications:Shipping Mailing Address/Info Labels for USPS, UPS, FedEx, DHL Amazon, eBay etc Compatible with: Zebra 2844,ZP 450, Zp-500 Zp-505, Intermec, Datamax, Printronix and other direct thermal label printers(not for Dymo printers) BPA BPS free Strong Adhesive Waterproof Oil Proof Scratch Proof FSC RoHS approved superior paper(No black spots and perforations, incompatible with Dymo and Brother)"
 asin="B07WZY9S5V"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="153"
 >}} 
 {{< product 
@@ -109,7 +109,7 @@ title="L LIKED 10 Rolls 4  x 6  Direct Blank Thermal Shipping Labels with 250 La
 img="https://m.media-amazon.com/images/I/31ITELbsqnL._SL500_.jpg"
 description="Size: 4  x 6 ，perforation between labels for easy to peel, Barbell, White, Direct Thermal, BPA Free, Permanent-Adhesive 250 labels per roll, total 10 rolls = 2,500 labels Strong adhesive to corrugated boxes and envelopes Compatible with Zebra, Fargo, Elton, Datamax, Sato, Intermec, NEX and many other direct thermal printers If you are looking for blank labels for inventory, barcode, mailing or shipping, they are perfect Great for Barcodes, UPS, USPS, FedEx, DHL, Amazon, eBay, PayPal Shipping and other vendors."
 asin="B089RNPQZ3"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1296"
 >}} 
 {{< product 
@@ -117,7 +117,7 @@ title="FungLam 4 x 6  Direct Thermal Labels (4 Rolls, 4000 Labels) - 3   Core, P
 img="https://m.media-amazon.com/images/I/31kQDLU98mL._SL500_.jpg"
 description="1,000 labels per roll, total 4 rolls = 4,000 labels Label size: 4 x 6 , 3  Core, white direct thermal labels High quality permanent adhesive, easy to peel and stick Perforations between each label. Commonly used for Amazon FBA, address labels, UPC codes, barcode labels, postage, mailing & shipping labels and other identification purposes. For use in Zebra, Datamax, Sato and other direct thermal industrial printers! Not Compatible With Dymo Printers."
 asin="B07BK24YZ4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="723"
 >}} 
 ## What is the difference between thermal and direct thermal labels?

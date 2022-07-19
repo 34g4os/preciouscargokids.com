@@ -18,7 +18,7 @@ title="Dilwe Motor Cooling Fan, Rocket 35mm 21000RPM Motor Cooling Fan 8.5V Brus
 img="https://m.media-amazon.com/images/I/41xu4hmIIVS._SL500_.jpg"
 description="Wide Compatibility: This motor cooling fan has a wide range of use, suitable for​ 1/10, 1/8, 1/12 RC car electromodulated fast heat dissipation. Application: The motor cooling fan has fast heat dissipation speed and good heat dissipation effect, which can prevent the motor from overheating. JST connector: This motor cooling fan adopts JST connector, easy to install and use, and the wiring has positive and negative poles, and the wrong connection will not work, safe and secure. Material: This motor cooling fan uses high quality aluminum and plastic, durable in use and light in weight, provide good heat dissipation. Fine Workmanship: This motor cooling fan is manufactured to meet standard requirement, an ideal choice for upgrading your RC car."
 asin="B0999KQCLB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="432"
 >}} 
 {{< product 
@@ -26,7 +26,7 @@ title="3Pcs HKWANTAT Dual Ball Bearings Brushless DC Cooling 35mm Fan 12v 3510 3
 img="https://m.media-amazon.com/images/I/41gm-QYKmOL._SL500_.jpg"
 description="【Bearings】High-quality Dual Ball Bearings, large air flow, low noise, long life 50000hrs, good running stability and corrosion resistance. 【Parameter】Dimensions: 35x35x10mm (1.39x1.39x0.4inch), Rated Voltage: DC 12V, Current: 0.09A; 【Performance】Speed: 8500RPM, Air Pressure: 0.19InH₂O, Airflow: 5.1CFM, Noise: 26dBA 【Warranty & Packing List】2Years. 3x 12V 3510 Fan, 30CM (11.8in) Cable - XH2.54 【Widely Used in】3D Printer Humidifier Aromatherapy and other Small Appliances Series Small Hear Radiating Communication equipment plate cooling heat Intelligent industrial control equipment plate cooling heat High Precision Medical equipment cooling PC CPU Server Cooling Dissipation Anywhere& electronic that need cooling"
 asin="B09KXPVZDM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="11"
 >}} 
 {{< product 
@@ -34,7 +34,7 @@ title="Rocket 35mm Metal Motor Cooling Fan 21000RPM for 1/10 1/12 1/8 RC Car Bru
 img="https://m.media-amazon.com/images/I/31NWlDjVeVL._SL500_.jpg"
 description="1.This Rocket Cooling fan Made of aluminum and plastic, good heat dissipation, fast cooling, light weight, easy to carry. 2.JST head connection is convenient and fast, easy to install, easy to use, the wiring has positive and negative poles, the wrong connection will not work . 3.The product has high cost performance and wide applicability. It can be used for 1/10 1/8 1/12 RC Car ESC, motor for rapid heat dissipation, 8.5V,21000 rpm, and super fast cooling speed. 4.It is a good choice for RC fans."
 asin="B0924KPDQY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="13"
 >}} 
 ## What is the most common fan size?

@@ -17,7 +17,7 @@ title="Hain Pure Foods Sea Salt Iodized - New Size, 21 oz (2-PACK)"
 img="https://m.media-amazon.com/images/I/51-814WG08L._SL500_.jpg"
 description="3 Pack of 21 oz. Canister of Hain Pure foods Iodized sea salt Sourced and produced from evaporated Sea water Free of artificial flavors No artificial preservatives Certified Kosher"
 asin="B07B42YQ76"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="438"
 >}} 
 {{< product 
@@ -25,7 +25,7 @@ title="Morton Salt Iodized Sea Salt, 26 oz (2 Pack) w/ Custom F.O.Y Measuring Sp
 img="https://m.media-amazon.com/images/I/41967RdJ6NL._SL500_.jpg"
 description="Created in the sparkling waters of the Bahamas Packaged in the USA Measures like table salt, recipe ready Can be used anywhere normal table salt is used Includes Custom F.O.Y Brand Measuring Spoon and Bag Clip in F.O.Y Sealed Packaging."
 asin="B08KY8HYD9"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1601"
 >}} 
 ## Which is better iodized salt or sea salt?

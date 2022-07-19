@@ -20,7 +20,7 @@ title="Moroso OIL PAN, FORD 7.3 POWERSTK E &F (27336)"
 img="https://m.media-amazon.com/images/I/31tztXPpUyL._SL500_.jpg"
 description="Heavy Duty, stamped out of 16 gauge quality steel which is thicker than O. E. M. Has a triple coat finishing process of a zinc phosphate which besides creating a durable finish foundation also neutralizes any corrosion started by the welding process itself. The second coat is a black 1-mil thick electrocoat and the last coat is a gloss black epoxy powdercoat. This process has been fine tuned from years of oil pan building experience and from this Moroso oil pan design being subjected to numerous salt spray testing. The O. E. M. oil pan only has a black painted surface More cost effective than the O. E. M. piece by it s initial price and that labor dollars will not need to be spent every couple of years on it s replacement Features an internal O. E. M. style anti-slosh baffle to keep oil contained in the oil pick up area, dipstick provision on passenger side and notch in front oil pan for clearance Oil pan is designed to work with your existing oil pump and pickup tube Fit type: Vehicle Specific"
 asin="B00LSTYM2Y"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -28,7 +28,7 @@ title="Ford Racing M6675A460 Oil Pan Kit, Includes Rear Sump, 6 Quart"
 img="https://m.media-amazon.com/images/I/416pBFJf3RL._SL500_.jpg"
 description="For 429/460, 7.5L oil pan kit Fits 1979 - 1995 Mustang and Fox chassis Also fits 1969 - 1997 production blocks Kit includes rear sump oil pan, dipstick, dipstick tube, pickup, and main cap stud Ideal for engine swaps"
 asin="B000CEO6PY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -36,7 +36,7 @@ title="Mag-Hytec F6.7L Heavy Duty Engine Oil Pan (2 Quarts Over Stock) Compatibl
 img="https://m.media-amazon.com/images/I/51NTN55MJ0L._SL500_.jpg"
 description="O-Ring Seal Aircraft Aluminum Construction Finned Design For Heat Dissapation Increased Oil Capacity - 2 Quarts Over Stock The Mag-Hytec F 6.7L Diesel Engine Oil Pan is a great upgrade to the factory oil pan in your 2011-2019 Ford 6.7L Powerstroke. Eliminate the plastic pan found in the earlier 6.7L models, or replace the steel pan on the later models. The larger design gives you an increased oil capacity allowing you to hold 2 more quarts over stock. This pan features a built-in o-ring seal and includes all hardware needed for installation."
 asin="B081VTKS5H"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="536"
 >}} 
 {{< product 
@@ -44,7 +44,7 @@ title="OEM Steel Oil Pan Upgrade Kit with Bolts & RTV Compatible with 2011-2016 
 img="https://m.media-amazon.com/images/I/41RCWyuZRcL._SL500_.jpg"
 description="This oil pan package includes everything needed to replace or upgrade your 2011-early 2012 Powerstroke to the later steel pan with standard drain plug, or this pan acts as a replacement for your late 2012-2016 Powerstroke. All components are 100% genuine OEM Ford parts. Includes: OEM Steel Oil Pan | Drain Plug | Motorcraft RTV Silicone | New Bolts 2-Year Warranty Fitment Applications: 2011-2016 Ford 6.7L Powerstroke Diesel F-250 F-350 F-450 F-550 Super Duty"
 asin="B085VN7B3G"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="536"
 >}} 
 {{< product 
@@ -52,7 +52,7 @@ title="Ford Racing M6675A58 Oil Pan Kit, Includes Rear Sump, 6 Quart"
 img="https://m.media-amazon.com/images/I/41lQFK6oYVL._SL500_.jpg"
 description="Designed for 351W, 5.8L oil pan kit Fits 1979 - 1995 Mustang and Fox chassis Also fits 1969 - 1997 production blocks Kit includes rear sump oil pan, dipstick, dipstick tube, pickup, and main cap stud Rear 5-quart"
 asin="B000CESEZM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## How much should it cost to replace an oil pan?

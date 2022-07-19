@@ -25,7 +25,7 @@ title="Baby Einstein Take Along Tunes Musical Toy, Ages 3 months +"
 img="https://m.media-amazon.com/images/I/41VT5E58UOL._SL500_.jpg"
 description="A best selling favorite with thousands of 5 star ratings Inspires a lifelong love of music.No Assembly Required Baby can switch between 10 total melodies Perfectly sized for ages 3 to 36 months Volume control is music to mom and dad’s ears Easy to wipe down and clean"
 asin="B000YDDF6O"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="ZONICE Green Crawling Crab Baby Toy with Music and LED Light Up for Kids,
 img="https://m.media-amazon.com/images/I/41d3SlhniyL._SL500_.jpg"
 description="✅【Musical Crab Toy】 - Super value for LED light up crawling &sensor obstacles avoidance function,when it encounters an obstacle during moving, it will move in the opposite direction in time. The light and music makes it very attractive to kids.Note: Do not use this toy in water or humid environments. ✅【Long Time Playing】 - Electronic Musical crab toys powered by 3.7V lithium battery , 2 hours charging time will last up to 20-30 minutes non-stop operation. Package With USB charge cable.It is very convenient to charge by USB charger, computer, power bank.Make sure that the toy is turned off during the charging process. ✅【High-Quality Musical Toys】 - This Multifunctional Musical crawling crab Toy can withstand bumps. High quality crawling crab are made from non toxic ABS material .The Smooth edges and right size is suitable for Babies Toddlers Kids Girls Boys. ✅【Child Development】 - This is a fun musical toy for boys and girls. Children will love interacting with the crab ,when the crab is moves around with the light and music. The music crab toy Can help toddler’s development by stimulating body movement and co-ordination. ✅【Perfect Gift for Kids】 - This kids musical crab toys would be the perfect Christmas, birthday, Thanksgiving gift for your kids. Inspire your kid s creativity and imagination. It is An excellent gift for all ages over 3 years old.No matter what causes your confusion and dissatisfaction, please feel free to contact us."
 asin="B092PY8R46"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="23"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Oathx Baby Musical Toys for Toddlers 1-3 Kids Drum Percussion Instruments
 img="https://m.media-amazon.com/images/I/51ow78yrKFS._SL500_.jpg"
 description="🎵Oathx baby musical toys are great for babies, toddlers and young children. The baby musical instruments are great for toddlers 6-12 months old , as well as older children aged 1-3. These baby instrument toys can inspire creativity for 1- year-olds, whether a one year old girl or boy. It’s never too early to inspire a love of music and children’s musical instruments are sure to be enjoyed by any children that have them. 🎵Oathx musical toys for babies 6-12 months are perfect to get your little ones moving, grooving and enhances creativity . These musical instruments for toddlers 1-3 also help build up motor skill development, hand-eye coordination and creative expression for your young child. These small and cute baby instruments are helpful to develop your children s musical talent. 🎵All oathx baby instrument parts are made of the highest quality-durable wood, non-toxic plastic material, fine workmanship ensures smooth surface, nice polish and compact size.They are safe and reliable music toys for 3-5 year old , children as young can enjoy our toddler instrument set. 🎵Oathx toddler instrument sets are educational toys that encourage group play! The set includes xylophone for toddlers, drum set for kids, learning toy for babies. Playgroups will enjoy this toddler instrument set, with 16 pieces to choose from, everyone will be able to play. Oathx children s instrument set is an ideal  birthday present or Christmas gift. 🎵Oathx baby musical toys offer vibrate primary colors. Our colors, tones and pictures are designed to attract the attention of young children. Our toddler musical instruments allow for hours of play while developing your child s motor skills."
 asin="B07LF3PFV1"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="176"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="MAXZONE Kids Musical Instruments Sets, 12pcs Wooden Percussion Instrument
 img="https://m.media-amazon.com/images/I/517Ud2QKEkL._SL500_.jpg"
 description="♬【Safe and Reliable】: toddler toys are made of high quality non-toxic material to ensure safe and reliable for your kids. Note: Please with adult if your kids is too little ♬【Musical Education Toys】: Not only creates more interactions between the parents and the kids from playing toys, they also highly contribute to children’s creativity, concentration, development and intelligence. The wide variety of instruments and sounds will help improve your child s motor skills, hand-eye coordination and rhythm ♬【Great As a Christmas Gift】: 12pcs musical toys for kids to get children moving, grooving, and feeling the beat. Ideal and creative birthday present or Christmas gifts for kids, boys and girls ♬【[Individual Package]: Come with an unique special designed Carry bag for easy clean up and storage, children will love it. Fit for both boys and girls. Great Christmas, birthday gift for preschool kids, children. ♬ [Perfect Musical Instruments]: These kids musical instruments is very colorful, expose your mini-musician to different tones, volume, and rhythm, which is attractive to kids. 12-piece musical instruments for kids to get children moving, grooving, and feeling the beat."
 asin="B07GZGWWK2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="711"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Baby Einstein Glow & Discover Light Bar Activity Station"
 img="https://m.media-amazon.com/images/I/41b-8iBN3XL._SL500_.jpg"
 description="This easy to activate the toy bar is fun and interactive for little ones Lights up by touching the colored sections or spin of rattle drum 3 modes: Animals, colors, xylophone Language switch allows you to hear the content in English, Spanish or French Collapses for easy storage or tummy time play Easy to wipe down and clean"
 asin="B06Y1192MF"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="VTech Snug-a-Bug Musical Critter, Multicolor"
 img="https://m.media-amazon.com/images/I/51A55q4b7GL._SL500_.jpg"
 description="Eight fabric legs teach colors, shapes and music. The bug s light-up tummy button changes colors and plays phrases and songs when pressed Playtime mode provides daytime activities with songs and phrases, and Sleepytime mode soothes with sounds and lullabies Delight your baby s sense of touch with soft plush, a corduroy tummy, fabric legs and ribbons 50+ songs, sounds, phrases and melodies include extended five-minute lullabies to soothe your baby to sleep Intended for ages 3-24 months. Requires 2 AAA batteries. Batteries included for demo purposes only. New batteries recommended for regular use"
 asin="B07XP9TMQ2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Musical Instruments for Toddlers 1-3 & Kids, Natural Wooden Musical Toys 
 img="https://m.media-amazon.com/images/I/41x9XTFuD-L._SL500_.jpg"
 description="Safe & Reliable: The toddler musical instruments features 100% natural wood, round-edge design and CPC certification. No painting and coating. Non-toxic, lead-free and BPA-free. Creating a sound playing environment. Ideal Montessori Toys: Designed for early childhood education, the kids musical instruments set expose your baby to abundant rhythms. They activate the sense of music, get young children moving with the beat and promote hands-on imaginative thinking. Enjoy Bonding Time: With various wooden toys to shake, tap and strike, your little musician can have a solo or play with others. By sharing the natural wooden toys, they can develop confidence and social skills. Just join them and have fun. Superb Gift for Little One: The Jetika musical toys for toddlers 1-3 come with a nice box and a bag, making storage and take-out easier. Perfect kids drum set for birthday gift, Christmas gift and Children’s day. Warranty & Service: We value the experience of every customer and provide a 12-month warranty. If you have any questions, just contact us and you will receive reply within 12 hours."
 asin="B08LYYQN2R"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="117"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Baby Musical Crib Mobile with Hanging Rotating Toys, Remote Control, Ligh
 img="https://m.media-amazon.com/images/I/51ROD4K9EPL._SL500_.jpg"
 description="💝【Design and Features】 The 360 rotation mobile with a remote control, the remote can control all the function in music box. Four cute airplane pendants spin slowly can attract the baby’s attention, help to exercise baby s eyesight. The cute hanging pendant can be taken off as small rattle toys. 💝【Music Function and Star Projector Function】The night light projector can project light onto the wall and play 108 different songs. So that the baby can see the beautiful starry sky and enjoy wonderful music. Automatically switch between 3 colors of starry sky to improve your sweetie s sleeping environment. 💝【Material and safety】This baby musical crib mobile made in environmentally friendly ABS material, non-toxic and tasteless, BPA free, smooth edge. It won t scratch a baby s little hand, you could rest assured to let baby use. 💝【Fit size】The baby mobile crib can be fixed on the bed-caliber crib in 0.47-1.49 inch(1.2-3.8cm). With a screwdriver as free gift for easy use. 💝【Exquisite gift box packaging】：This cute musical mobile is packaged in a gift box. The box is colorful and full of vitality. It can be given to baby as Christmas, Halloween, New Year gifts and birthday gifts.."
 asin="B08PBLDKSS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="63"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Skip Hop Baby Toy Guitar, Farmstand Grow & Play, Rock-A-Mole Guitar"
 img="https://m.media-amazon.com/images/I/31nXtEEKTlL._SL500_.jpg"
 description="A little bit country and totally guac & roll! This adorable avocado guitar inspires mini musicians with strumming riffs, fun tunes and more! Easy for little hands to hold—just spin the avocado’s “pit” or press the light-up buttons and guac out! Press buttons or spin avocado pit for songs, guitar riffs and lights Plays 6 songs and 10 guitar riffs Helps develop fine motor skills and inspires mini musicians Ages 6m+; Requires 3 AAA batteries (included); Size (inches): 11l x 6w x 2.75h; (cm): 28l x 15w x 7h"
 asin="B07R3P6HZX"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Baby Einstein Octoplush Musical Octopus Stuffed Animal Plush Toy, Age 3 M
 img="https://m.media-amazon.com/images/I/41y-oQPixzS._SL500_.jpg"
 description="Baby can cuddle up to new colors and music Huggable & soft to touch for tactile development Discover the colors in English, Spanish and French Squeeze Octoplush’s head to activate more classical melodies Includes volume control"
 asin="B000TFLAZA"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## What type of music is best for babies?

@@ -17,7 +17,7 @@ title="TP-Link 10/100/1000Mbps Gigabit Ethernet PCI Express Network Card (TG-346
 img="https://m.media-amazon.com/images/I/41tPL0hecwL._SL500_.jpg"
 description="Ultra Fast: 10/100/1000Mbps PCIe Adapter upgrade your Ethernet speed to Gigabit Automation: Wake on LAN supporting Auto Negotiation and Auto MDI/MDIX Supports: IEEE802.3x Flow Control for Full duplex Mode and backpressure for Half duplex Mode; 4k Bytes Port: 1x 10/100/1000Mbps RJ45 Network Media Compatibility: Windows 10, 8.1, 8, 7, Vista, XP Dual Bracket: Low profile and standard profile bracket inside works with both mini and standard size PCs From Reliable Brand: TP Link has been ranked as the World’s No. 1 provider of WLAN products for the past consecutive 7 years by IDC. In 2017"
 asin="B003CFATNI"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -25,7 +25,7 @@ title="TP-Link AC1200 PCIe WiFi Card for PC (Archer T5E) - Bluetooth 4.2, Dual B
 img="https://m.media-amazon.com/images/I/31JA6X0AuYL._SL500_.jpg"
 description="Super-Fast Speed – Make full use of your network with AC1200 WiFi speeds (867 Mbps on the 5GHz band and 300 Mbps on the 2.4GHz band) Bluetooth 4.2 – Achieve 2.5× faster speed and 10× more packet capacity than Bluetooth 4.0 Broad Wireless Range – Connect to your WiFi from further away with two external high-gain antennas ensuring greater range and enhanced stability Easy Installation – Plug the adapter into an available PCI-E slot to upgrade your desktop (both standard and low profile brackets included) Windows Compatibility - Supports Windows 10, 8.1, 8 and 7 (32/64-bit)"
 asin="B084JPFKQ5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## What is the network card used for?

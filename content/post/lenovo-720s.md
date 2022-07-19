@@ -18,7 +18,7 @@ title="Lenovo IdeaPad 720s Laptop, 15.6-Inch Touchscreen Laptop (Intel Core i7-7
 img="https://m.media-amazon.com/images/I/41fdJ-WIz2L._SL500_.jpg"
 description="ADVANCED GRAPHICS PERFORMANCE WITH NVIDIA:With the IdeaPad 720S 15” laptop you’ll experience lightning-fast graphics and accelerated photo and video-editing performance with a NVIDIA GTX-1050Ti discrete graphics card. SLEEK DESIGN: The Ideapad 720S gaming laptop has been redesigned with stylish details, angled edges and a sophisticated tone-on-tone Iron Grey soft-touch finish. BRILLIANT VISUAL CLARITY: Gaming laptop features 4K resolution and a redesign that significantly narrows the borders around the screen. IMPRESSIVE BATTERY LIFE AND ALWAYS-ON CHARGING: Laptop has more than 9 hours of battery life (with UHD resolution) and features always-on charging, so you’ll be able to charge other devices via USB port—even when your laptop’s powered off. Plus, one hour plugged in with rapid charge will give you an 80% charge. TRULY IMMERSIVE AUDIO: The Ideapad 720S Touch laptop offers Dolby Atmos, which creates a breathtaking 360-degree immersive audio experience in which sound flows from every direction when you listen through headphones or the JBL Premium Audio speakers."
 asin="B079T8MJYS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="54"
 >}} 
 {{< product 
@@ -26,7 +26,7 @@ title="Lenovo Ideapad 720S 13.3-Inch Laptop (Intel Core i7-8550U Processor, 8GB 
 img="https://m.media-amazon.com/images/I/41ebARVXijL._SL500_.jpg"
 description="ULTRA SLIM. ULTRA POWERFUL. Intel Core i7-8550U Processor, 13.3  UHD display, 8GB DDR4, 1TB Pcle SSD, Intel integrated UHD graphics, Dolby Atmos, Windows 10 Pro, up to 8 hours of battery life PERFORMANCE AND STYLE: The Lenovo IdeaPad 720S Laptop offers feather-light portability at 2.51 lbs and just .54 inches thin, while having enough power to do everything you do. With an aluminum finish that is crafted with the same technique to polish diamonds, this Laptop has been redesigned with premium details to make it look thinner than it already is. WORK HARD, PLAY HARD: With the Intel Core i7-8550U processor, the IdeaPad 720S Laptop Computer is designed to handle all that you can throw at it. With a 40% boost in application performance from previous generations, this processor is pushing the limits. IMPRESSIVE BATTERY LIFE AND ALWAYS-ON CHARGING: With up to 10 hours  battery life, you ll be able to stay moving all day. The Ideapad 720S laptop also features always-on charging, so you ll be able to charge other devices via USB port-even when your laptop s powered off. DYNAMIC ENTERTAINMENT: Featuring UHD resolution on a narrow bezel display and the 360° sound of Dolby Atmos via headphones, the IdeaPad 720S Laptop Computer will provide theater-quality visuals and audio."
 asin="B07BDQW19Z"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="38"
 >}} 
 {{< product 
@@ -34,7 +34,7 @@ title="Lenovo 81BR003RUS Ideapad 720S 13.3  FHD Ryzen 5 2500U 2.00GHz 8GB RAM 25
 img="https://m.media-amazon.com/images/I/41QqF9lWYfL._SL500_.jpg"
 description="Brand New in box. The product ships with all relevant accessories"
 asin="B07B38S3MH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="25"
 >}} 
 ## What is the cost of Lenovo Ideapad?

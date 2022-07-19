@@ -25,7 +25,7 @@ title="Panasonic LUMIX GX7 16.0 MP DSLM Camera with LUMIX G 20mm F1.7 II ASPH Le
 img="https://m.media-amazon.com/images/I/41rCVNIIrLL._SL500_.jpg"
 description="Lumix GX7 with 16MP Micro 4/3, Live MOS Sensor Kit pair with Lumix 20mm F1.7 ASPH lens 2.76 Million Dot Tiliting Electronic ViewFinder 3.0  Tilting Touch-Screen LCD Image Sensor Shift Type Image Stabilization System"
 asin="B00F4PQGDG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="25"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Panasonic LUMIX GX7 16.0 MP DSLM Camera with Tilt-Live Viewfinder - Body 
 img="https://m.media-amazon.com/images/I/41Z6KyvdQFL._SL500_.jpg"
 description="16MP CMOS Four Thirds sensor ISO 200-25600 (extendable ISO 125) Up to 5 FPS continuous shooting (40 FPS with electronic shutter) 3 inch tiltable touch LCD with 1,040,000 dots Flip-up electronic viewfinder with 2,764,800 dots and eye sensor 1080/60p/30p/24p HD video (AVCHD/MPEG-4) with PASM control Creative Control mode with 22 filter effects + PSAM In-body image stabilization Manual focus peaking Magnesium alloy frame Built-in pop-up flash 1/8000 second max shutter speed, 1/320th flash sync speed Built-in WiFi and NFC"
 asin="B00E87OK84"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="25"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Panasonic LUMIX GX7 DMC-GX7S DMCGX7S 16.0 MP Mirrorless Micro Four Thirds
 img="https://m.media-amazon.com/images/I/41OzzjAryoL._SL500_.jpg"
 description="Tilt-able Live View Finder with Field Sequential Color Accuracy (2.76M-dot) Hybrid Capture as 16MP Photo or Full HD Video 1080/60p Create in Camera with Filters, Effects, Gamma Curves, and Panorama In-Body Stabilization for Non-stabilized Lenses Micro Four Thirds System,"
 asin="B00HWFHBGC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="194"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Panasonic LUMIX GX85 4K Digital Camera, 12-32mm and 45-150mm Lens Bundle,
 img="https://m.media-amazon.com/images/I/31mJZDx7IfL._SL500_.jpg"
 description="Fine Detail Performance: 16 megapixel Micro Four Thirds sensor with no low pass filter resulting in a near 10 percent boost in fine detail resolving power over existing 16 megapixel Micro Four Thirds sensors Mirrorless Interchangeable Lens Camera Kit: With 2 super compact lenses 12 32mm F3.5 5.6 and 45150mm F4.0 5.6, shoot lighter and faster with the modern hybrid photography performance of a mirrorless camera and nearly half the bulk of most DSLRs Class Leading Dual Image Stabilization: In body 5 axis dual image stabilization works in both photo and motion picture recording—including 4K video—to produce clear handheld shots even in low light conditions. Battery AC Adaptor (Input 110 - 240V AC) (Included, connect with USB cable). Battery life (CIPA standard) Approx. 290 images (rear monitor), 270 images (LVF) with H FS12032 Live Viewfinder and Tilting LCD Display: Integrated eye level electronic viewfinder (2764K dots) and rear touch enabled 3 inch LCD display (1040K dots) provides 80 degrees of up tilt and 45 degrees of down tilt to maximize viewing. Recording media-(Compatible with UHS-I UHS Speed Class 3 standard SDHC / SDXC Memory Cards). Direct Print-Pict Bridge compatible 4K VIDEO CAPTURE: 4K QFHD video recording (3840 x 2160), plus exclusive Lumix 4K photo and 4K post focus allows you to record photos up to 30fps and set your desired focus points after the photo has been taken. Minimum Aperture: F22"
 asin="B079VDF7ZG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Panasonic LUMIX DC-ZS70K, 20.3 Megapixel, 4K Digital Camera, Touch Enable
 img="https://m.media-amazon.com/images/I/41GeMNQ8dRL._SL500_.jpg"
 description="20.3 Megapixel MOS sensor plus 30x Leica DC VARIO ELMAR lens (24 720mm), Plus 5 axis Hybrid O. I. S. (Optical image Stabilizer) 0.2 Inch 1,166k dot EVF (electronic view finder) with eye sensor for easier viewing under sunny outdoor conditions 4K QFHD video recording (3840x2160), Plus exclusive Lumix 4K PHOTO and 4K post focus with internal focus Stacking feature Lens barrel mounted control ring enables quick, intuitive operation of important functions Wi Fi plus a 180 Degree front Flip up touch feature enabled screen simplifies selfie photography, and framing for unusual perspectives.Recording file format:Motion Picture: AVCHD Progressive, AVCHD, MP4.Wifi:IEEE 802.11b/g/n"
 asin="B071R6JRZZ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1923"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Panasonic LUMIX G85 4K Digital Camera, 12-60mm Power O.I.S. Lens, 16 Mega
 img="https://m.media-amazon.com/images/I/51JyqrgJzeL._SL500_.jpg"
 description="Fine Detail Performance: 16 megapixel micro four thirds sensor with no low pass filter resulting in a near 10 percent boost in fine detail resolving power over existing 16 megapixel micro four thirds sensors; Color temperature setting 2500 to 10000K in 100K Mirrorless Interchangeable Lens Camera: With 12 60 millimeter lens, Shoot lighter and faster with the modern hybrid photography performance of a mirrorless camera and nearly half the bulk of most DSLRs Class Leading Dual Image Stabilization: In body 5 axis dual image stabilization works in both photo and motion picture recording including 4K video to produce clear handheld shots even in low light conditions. Diopter adjustment: minus-4.0 to plus-4.0 (dpt) Live Viewfinder and Flip LCD Display: Integrated eye level OLED live viewfinder (2360K dots) and rear touch Enabled 3 inch LCD Display (1040K dots) adjusts for optimal viewing angles to maximize viewing 4K video Capture: 4K QFHD video recording (3840 x 2160), plus exclusive Lumix 4K photo and 4K Post Focus allows you to record photos up to 30fps and set your desired focus points after the photo has been Taken"
 asin="B01M050N05"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Panasonic LUMIX GH5 4K Digital Camera, 20.3 Megapixel Mirrorless Camera w
 img="https://m.media-amazon.com/images/I/41qOGSRuG0L._SL500_.jpg"
 description="Professional photo and video: 20.3 Megapixel micro four thirds sensor with no low pass filter to capture sharp images with a high dynamic range and artifact free performance Splash or Freeze Proof Design: Freeze proof to 10 degrees the durable magnesium alloy body withstands heavy use in the field; Splash or dust proof construction with weather sealing on every Joint, dial and button Dual image stabilization: 5 axis dual image stabilization corrects all lenses, including classic lenses not equipped with O. I. S, to eliminate Blur and nearly eliminate body and lens shake in both photo and 4K video recording 4K video capture: Records silky smooth 4K 60P by 50P (QFHD 4K: 3840 x 2160 ; MOV or MP4) video with internal 4: 2: 2 10 bit 4K video recording, Plus exclusive 6K photo and 4K post focus records photos up to 60Fps Connectivity and Ports: 3.5 millimeter audio port, connect to devices with USB 3.0, an external monitor or external Recorder with a full size HDMI port; Available Twin SD card slots (UHS II U3 compatible)"
 asin="B01MZ3LQQ5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Panasonic LUMIX LX10 4K Digital Camera, 20.1 Megapixel 1-Inch Sensor, 3X 
 img="https://m.media-amazon.com/images/I/41aputgnfEL._SL500_.jpg"
 description="POINT-AND-SHOOT CAMERA: Large, 1-inch 20.1-megapixel MOS sensor plus 3X zoom LEICA DC VARIO-SU millimeter ILUX lens (24-72 millimeter) and POWER O.I.S. (Optical Image Stabilizer) delivers brighter, more colorful photos with fewer image artifacts TILTING SELFIE DISPLAY: Rear touch-enabled 3-inch LCD display (1040K dots) tilts upward 180 degree for easy selfie photos 4K VIDEO CAPTURE: 4K QFHD video recording (3840 x 2160), plus exclusive LUMIX 4K photo and 4K Post Focus with internal Focus Stacking allows you to record photos up to 30fps and set your desired focus points after the photo has been taken LENS-MOUNTED CONTROL RING: Manual lens-mounted control ring brings DSLR-like exposure control to a compact point-and-shoot camera body USB CHARGING AND WI-FI CONNECTIVITY: Enjoy travel ready technologies like USB charging and Wi-Fi connectivity to your mobile device; micro-HDMI type D (3) and USB 2.0 micro-B provide additional connectivity to your favorite devices"
 asin="B01LZHIX13"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1923"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Panasonic LUMIX FZ300 Long Zoom Digital Camera Features 12.1 Megapixel, 1
 img="https://m.media-amazon.com/images/I/511kDQY-kgL._SL500_.jpg"
 description="4K video and 4K photo: Panasonic’s exclusive 4K photo technology uses 30 frames per second in high resolution 4K ultra HD video to extract them as photos; You’ll never miss that moment again Leica DC Vario Elmarit lens: 24x zoom (25 600 millimeter with Full zoom range F2; 8 aperture for enhanced low light shooting meeting the stringent quality standards established by Leica High image Quality: The 12.1 Megapixel high sensitivity MOS sensor with the venus engine excels in diffraction compensation, yielding images that are crisp and Free from artifacts associated with small aperture settings Rugged Camera Design: Splash Proof/dustproof rugged camera design with tight seals on every Joint, dial and button, so it stands up to harsh weather conditions and challenging 5 Axis Hybrid Optical Image Stabilizer Plus: Reduces blur from 1 handed video shooting by compensating for 5 types of movement; Level shot function detects horizon line and maintains it, even if the camera is tilted"
 asin="B011PKJI2Y"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Panasonic LUMIX G7 4K Digital Camera, with LUMIX G VARIO 14-42mm Mega O.I
 img="https://m.media-amazon.com/images/I/510tzcJmyeL._SL500_.jpg"
 description="Professional photo and video: Performance: 16 megapixel micro four thirds sensor with no low pass filter to confidently capture sharp images with a high dynamic range and artifact free performance; Wi-Fi: IEEE 802.11b/g/n, 2412 MHz, 2462 MHz (1 11 ch), Wi Fi / WPA / WPA2, Infrastructure mode 4K video Capture: 4K QFHD video recording (3840 x 2160) with 3 unique 4K ultra HD video pause and save 4K photo modes extracts individual high resolution Photos from 4K ultra HD video filmed at 30 frames per second to capture split second moments Intuitive Controls: Easily control aperture and shutter settings with the front and rear dials while making White balance and ISO adjustments on the fly; Assign favorite settings to any of the six function buttons (six on body, five on menu) High Resolution Viewfinder and LCD Display: High resolution (2,360K dot) OLED live view finder and rear touch Enabled 3 inch tilt/swivel LCD display (1,040 dot) are clear even in bright sunlight. Diagonal Angle of View: 75°（Ｗ）29°（Ｔ） Connectivity and Ports: 3.5 millimeter external mic port, 2.5 millimeter remote port, USB 2.0 and micro HDMI Type D; Compatible with newer BUS Class UHS I/UHS II SDXC/SDHC SD cards capable of storing high resolution 4K videos"
 asin="B00X409PQS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## Is Lumix GX7 a good camera?

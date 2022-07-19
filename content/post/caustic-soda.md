@@ -20,7 +20,7 @@ title="MaxTite Caustic Soda Beads 99% Pure (40lbs)"
 img="https://m.media-amazon.com/images/I/41gDUHvcAFL._SL500_.jpg"
 description="99% pure Sodium Hydroxide (NaOH) also commonly called lye or caustic soda. Made in the USA! Common use: drain cleaning; may also be used for chemical processing, water treatment, pulp and paper, petroleum industries, and soaps and detergents Opens extremely clogged drains by reacting when mixed with water Heavy-duty cleaner, remove baked on grease and oils. Perfect for ovens! Powerful paint stripper can remove up to 30 layers of paint in one application by reacting with paint to create a very low pH"
 asin="B08R7S1R11"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="972"
 >}} 
 {{< product 
@@ -28,7 +28,7 @@ title="Sodium Hydroxide - Pure - Food Grade (Caustic Soda, Lye) (2 Pound Jar)"
 img="https://m.media-amazon.com/images/I/41mGPS-WNVL._SL500_.jpg"
 description="Reclosable HDPE Jar Top Quality, Premium Lye Great for making soap, as a cleaner, or for food prep Food-Grade USP/FCC"
 asin="B07KNR9SVF"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1453"
 >}} 
 {{< product 
@@ -36,7 +36,7 @@ title="Sodium Hydroxide - Pure - Food Grade (Caustic Soda, Lye) (1 Pound Jar)"
 img="https://m.media-amazon.com/images/I/41IHOyHxbVL._SL500_.jpg"
 description="Food-Grade USP/FCC Made in the USA Child Safe Jar Great for making soap, as a cleaner, or for food prep Top Quality, Premium Lye"
 asin="B0875LR274"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1453"
 >}} 
 {{< product 
@@ -44,7 +44,7 @@ title="Sodium Hydroxide (Caustic Soda Beads) - 40 lb pail"
 img="https://m.media-amazon.com/images/I/41h6yONIrCL._SL500_.jpg"
 description="Technical Grade. Excellent, clean quality. 99% Pure. The BEADS are BACK! Easier to work with than the flakes! Excellent for use as a Drain Cleaner, Grease Cutter or Electrolyte Multi-Purpose: Can be used for soap making, drain cleaning, paint stripping, Cleaning metals, stainless steel de-greaser, water treatment, cleaning glass bakeware and even for Septic Systems. Can be used to create Beautiful hand made soaps. Gloves and eye protection must we worn. Users must be cautious of potential burns. Now Includes 1 Plastic Bucket Lid Opener (color may vary)"
 asin="B07LCWM11N"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="299"
 >}} 
 {{< product 
@@ -52,7 +52,7 @@ title="50 lb Red Hot Devil Lye Sodium Hydroxide Meets Food Chemical Codex High G
 img="https://m.media-amazon.com/images/I/41kvcJzGgKL._SL500_.jpg"
 description="99+% Pure, Meets Food Chemical Codex, Generally regarded as Safe for Use with Foods Heavy Duty Pail with tear strip lid Great for making Biodiesel, Bar Soap, Pretzels & More! Excellent for use as a Drain Cleaner, Grease Cutter or Electrolyte HAZMAT: Requires signature in person upon delivery. Cannot be picked up at terminal."
 asin="B00KCY6N28"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="401"
 >}} 
 ## Does caustic soda dissolve in water?

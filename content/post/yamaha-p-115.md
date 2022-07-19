@@ -25,7 +25,7 @@ title="Yamaha P45 88-Key Weighted Action Digital Piano + Sustain Pedal and Power
 img="https://m.media-amazon.com/images/I/41a4OY2FtRL._SL500_.jpg"
 description="Includes P45 Digital Piano, power adapter, sustain pedal and music rest 88 fully weighted piano-style keys simulate the feel of an acoustic piano and provide a quality playing experience Contains 10 different voices, including digitally sampled tones from real Yamaha acoustic grand pianos Dual Mode lets you combine two Voices together, like piano and strings, for an inspiring new playing experience Slim and stylish design with a depth of less than 12 inches, the P71 requires little space and weighs only 25 lbs"
 asin="B07MTR8KTZ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="818"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="YAMAHA P125 88-Key Weighted Action Digital Piano with Power Supply and Su
 img="https://m.media-amazon.com/images/I/41jyDtjqnRL._SL500_.jpg"
 description="A fully weighted digital piano with 88 full sized piano style keys GHS weighted action is heavier in the low keys and lighter in the high keys, just like an acoustic piano The pure CF sound engine faithfully reproduces the tone of the acclaimed Yamaha 9 feet CFIIIS Concert grand piano; Tempo range: 5 to 280 Split mode lets you play a different voice with each hand; Tuning: 414.8 440.0 to 446.8 hertz USB to host connectivity with MIDI and audio transfer means you only need 1 cable to connect to your music making software"
 asin="B07BSM7PFL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2717"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Yamaha P45 88-Key Weighted Digital Piano"
 img="https://m.media-amazon.com/images/I/41ImRVp+6LL._SL500_.jpg"
 description="Includes the P45 Digital Piano, power adapter, sustain pedal and music rest 88 fully weighted piano style keys simulate the feel of an acoustic piano and provide a quality playing experience GHS weighted action is heavier in the low end and lighter in the high end, just like an acoustic piano Contains 10 different voices, including digitally sampled tones from real Yamaha acoustic grand pianos Dual mode lets you combine 2 voices together, like piano and strings, for an inspiring new playing experience. Tuning- 414.8 - 440.0 - 446.8 Hz"
 asin="B00UJ9LNDK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Yamaha P515 88-Key Weighted Action Digital Piano, Black"
 img="https://m.media-amazon.com/images/I/41A2ekkP6HL._SL500_.jpg"
 description="Yamaha CFX and Bösendorfer Imperial piano samples bring two of the world s finest and most prominent concert grand pianos to your fingertips The Piano Room lets you choose from a variety of pianos and acoustic settings to create your own personal piano environment Virtual Resonance Modeling (VRM) allows for vivid and richly-varied expression to reflect the limitless number of factors that create the sound of a concert grand piano Natural wood keyboard action with escapement and synthetic ebony/ivory key tops utilize specially dried wood to provide the same response and feel of a grand piano keyboard Key-off samples deliver the delicate change in sound the instant the damper falls back to the string.Number of Polyphony (Max.):256"
 asin="B07F3D13W5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="51"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Yamaha YDP144 Arius Series Piano with Bench, Dark Rosewood"
 img="https://m.media-amazon.com/images/I/41osoHn-ILL._SL500_.jpg"
 description="Your purchase includes One Yamaha Arius Series, YDP144 model | Bench, 50 Classical Music Masterpieces Book, Owner’s manual & Quick Operation Guide Piano dimensions – 53-7/16” W x 32-1/16” H x 16-5/8” | Weight – 83 lbs. | Number of pedals – 3 | Max polyphony – 192 | Number of voices – 10 | Headphones – (2) Standard Stereo phone jack | With Recording and Playback capabilities GHS weighted action is heavier in the low keys and lighter in the high keys, just like an acoustic piano Half-damper pedal control allows for continuously increasing amounts of sustain as the pedal is depressed The CFX Premium Grand Piano Voice recreates the power and tone of the flagship CFX concert grand piano from Yamaha The special matte black key tops are designed to absorb moisture and remain tactile after extended use without becoming slippery"
 asin="B07MHJM8CB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Yamaha P45B Black 88 Weighted Keys Digital Piano keyboard Bundle with Jul
 img="https://m.media-amazon.com/images/I/41+IMhBAwlL._SL500_.jpg"
 description="Includes the P45 Digital Piano, power adapter, sustain pedal, music rest , Juliet Music Piano Cover, Polish Cloth and Key Stickers 88 fully weighted piano style keys simulate the feel of an acoustic piano and provide a quality playing experience GHS weighted action is heavier in the low end and lighter in the high end, just like an acoustic piano Contains 10 different voices, including digitally sampled tones from real Yamaha acoustic grand pianos Dual mode lets you combine 2 voices together, like piano and strings, for an inspiring new playing experience. Tuning- 414.8 - 440.0 - 446.8 Hz"
 asin="B081P7KVKD"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="226"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Yamaha YDP103 Arius Series Piano with Bench, Black Walnut"
 img="https://m.media-amazon.com/images/I/41hljgjmHlL._SL500_.jpg"
 description="Your purchase includes One Yamaha Arius Series, YDP103 model | Bench, Owner’s manual & Quick Operation Guide Piano dimensions – 53-7/16” W x 32-1/16” H x 16-5/8” | Weight – 82 lbs. | Number of pedals – 3 | Max polyphony – 64 | Number of voices – 10 | Headphones – (2) Standard Stereo phone jack | No recording nor playback capabilities GHS weighted action is heavier in the low keys and lighter in the high keys, just like an acoustic piano The special matte black key tops are designed to absorb moisture and remain tactile after extended use without becoming slippery The controller app for iOS devices adds a rich graphical user interface, allowing for quick and easy navigation and configuration Advanced wave memory stereo sampling recreates natural instrument sound in stereo | Dual mode lets you combine two voices together, like piano and strings, for an inspiring new playing experience"
 asin="B07PZXD3Q5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Yamaha DGX670B 88-Key Weighted Digital Piano, Black (Furniture Stand Sold
 img="https://m.media-amazon.com/images/I/31kPe7A6Z7S._SL500_.jpg"
 description="CFX Stereo Sampling faithfully reproduces the sound of Yamaha s flagship CFX Full Concert Grand. GHS weighted action is heavier in the low keys and lighter in the high keys, just like an acoustic piano. The special matte black key tops are designed to absorb moisture and remain tactile after extended use without becoming slippery. Adaptive Style automatically shifts between the Main Style Variations by changing your velocity and number of notes played. Unison and Accent function adds a doubled voice to your melody line and musical  hits  when you accent your notes. Smart Chord lets you play great-sounding chords from simple Pop triads to complex jazz 7th chords with just a few fingers. FC5 sustain pedal included"
 asin="B08RNFJ98M"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="680"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Yamaha CP88 88-Key Graded Hammer Action Stage Piano with Sustain Pedal"
 img="https://m.media-amazon.com/images/I/416F+jtafrL._SL500_.jpg"
 description="88 Natural Wood keys with Synthetic Ebony and Ivory Key Tops and Graded Hammer (GH3) Action Three premium grand pianos, two upright pianos and five electric pianos Master delay, reverb and EQ effects with dedicated realtime controls Seamless Sound Switching: change sounds while holding notes without sound cutoff Includes FC3A Sustain Pedal"
 asin="B07MV2B48Q"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Donner DDP-100 88-Key Weighted Action Digital Piano, Beginner Bundle with
 img="https://m.media-amazon.com/images/I/41LB9q+uWrL._SL500_.jpg"
 description="Donner 88-key fully-weighted action digital piano, precisely matching the finger strength changes, restore the true piano s finger strength, more stable and feel better. Test and adjust the details of timbre repeatedly , making the sound more realistic and excellent, help you develop a keen ability to distinguish sound. Input and play MP3, built-in amplifier, support external sound or headphone to meet the needs of different occasions. Streamlined design, wooden cabinet with sliding key cover to protect the key. 128 polyphony , have one pure tones sampled from real acoustic grand pianos . Guarantee the quality of your practice and performance."
 asin="B07V6DY61F"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2994"
 >}} 
 ## What replaced the Yamaha P45?

@@ -18,7 +18,7 @@ title="Scala Silicone Anti Cellulite Massager, Body Shower Scrubber, Cellulite R
 img="https://m.media-amazon.com/images/I/41C-wxx9L7L._SL500_.jpg"
 description="Boost Circulation: Sturdy silicone nodes gently massage, helping stimulate circulation to help renew your cells and produce more collagen. Drain unseen excess fluids and trapped toxins. Body exfoliator for use in the shower too. Distribute Fat Deposits: Improves vascular blood circulation, helps evenly distribute fat deposits, and helps your skin release metabolic waste and toxins. Helps remove cellulite with specially nubbed surface. Use with cellulite cream or oils for best results. Easy Grip and Compact: Dual-handle allows easy pick-up, grip and slide motions to massage. Lightweight, compact, easy to pack means you can take it with you when you travel. Handheld cellulite remover and cellulitis massager. Do not rub on dry skin, use in combination with an anti-cellulite oil. Anti-Cellulite: Works best in conjunction with a healthy diet and plenty of exercise. You ll begin to lose cellulite pockets on your thighs and buttocks. Use the massager with anti-cellulite oil for smooth rubbing & application. Face massager, back and body exfoliator. Silicone body scrubber is great for all parts of the body. Apply pressure as necessary with oil."
 asin="B00GJ1UK3G"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="4437"
 >}} 
 {{< product 
@@ -26,7 +26,7 @@ title="6 in 1 40k cavitation massager machine cellulite removal infrared massage
 img="https://m.media-amazon.com/images/I/41BkU4sIHUL._SL500_.jpg"
 description="6in1 fuctional probes One-year warranty. Reply to the email within 24 hours."
 asin="B08ZNF9B3X"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="10"
 >}} 
 {{< product 
@@ -34,7 +34,7 @@ title="Californiamicroneedle LIPO-Light Machine Body Shaper Weight Loss Fat Redu
 img="https://m.media-amazon.com/images/I/41cOYH59PcL._SL500_.jpg"
 description="6pads total 54 diodes Profession Salon Spa use only Continuous for light skin and pulse for dark skin Register your amazon order for extended one year warranty Profession Salon Spa use only Continuous for light skin and pulse for dark skin Register your amazon order for extended one year warranty"
 asin="B08HLRBGKD"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="6"
 >}} 
 ## Does the ultrasonic cavitation machine work?

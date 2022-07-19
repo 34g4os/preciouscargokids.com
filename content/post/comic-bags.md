@@ -31,7 +31,7 @@ title="BCW Current Comic Bags - 200 Count"
 img="https://m.media-amazon.com/images/I/51M2GfuaxHL._SL500_.jpg"
 description="2 packs of 100 bags each Holds most current comics Acid-free, safe storage Use with BCW Current Backing Boards Exterior Dimensions: 6 7/8  x 10 1/2 "
 asin="B08K3Q7DTY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1851"
 >}} 
 {{< product 
@@ -39,7 +39,7 @@ title="BCW Current Comic Book Bags - 400 ct"
 img="https://m.media-amazon.com/images/I/41GmV-lMk+L._SL500_.jpg"
 description="4 packs of 100 bags each"
 asin="B08WDVNZ64"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2173"
 >}} 
 {{< product 
@@ -47,7 +47,7 @@ title="Ultra Pro Resealable Current Size Comic Bags 2-Mil Polypropylene 6-7/8 X 
 img="https://m.media-amazon.com/images/I/51SDjixXiaL._SL500_.jpg"
 description="Ultra Clear, Archival-Safe Protective Bags For Comic Books And Other Memorabilia Sized To Fit Current Size 6-7/8  X 10-1/2  Comic Books Made From Pvc And Acid-Free Materials Resealable Strip Keeps Contents Secure And Provides Extra Protection Stores current (modern) comics - Bags measure approximately - 6-7/8-Inch x 10-1/2-Inch PLUS Resealable tape closure on flap Made from 2mil Ultra Clear Polypropylene - Acid-free, archival quality, safe for long-term storage Sold in packs of 100 - Ultra-PRO stock number: 82225"
 asin="B002QGAF8S"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1489"
 >}} 
 {{< product 
@@ -55,7 +55,7 @@ title="100 BCW Current Comic Book Bags and Boards"
 img="https://m.media-amazon.com/images/I/41N8E0-G89S._SL500_.jpg"
 description="1 pack of current comic bags and 1 pack of current backing boards Current Bags: 6 7/8 X 10 1/2 + 1 1/2  flap - 2 mil Acid Free Current Boards - Dimensions: 6 3/4 X 10 1/2 inches - Certified Acid Free"
 asin="B001244X56"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="8480"
 >}} 
 {{< product 
@@ -63,7 +63,7 @@ title="200 BCW RESEALABLE Current Comic Bags & Backer Boards"
 img="https://m.media-amazon.com/images/I/41QH1SQ2btL._SL500_.jpg"
 description="Bags: 2-mil Crystal Clear, Archival Safe Polypropylene Bags: Dimensions 6 7/8  x 10 1/2  + 1 1/2  flap for closure Bags: Resealable adhesive strip on back of bag for easy closure Boards: Dimensions 63/4  x 1- 1/2  to fit inside BCW Current Bags Boards: Coated on one side, buffered with 3% calcium carbonate, precision cut, acid free"
 asin="B09JWZPWVJ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="81"
 >}} 
 {{< product 
@@ -71,7 +71,7 @@ title="BCW Resealable Silver/Regular Comic Book Bags, Clear 2-mil Polypropylene 
 img="https://m.media-amazon.com/images/I/41tsOh1dwwL._SL500_.jpg"
 description="Resealable for your comic collecting ease 2 mil material thickness Crystal clear Protect your comics while handling Exterior Dimensions: 7 1/8 x 10 1/2 x 1 1/2"
 asin="B004TGVU96"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2116"
 >}} 
 {{< product 
@@ -79,7 +79,7 @@ title="BCW Current Size Comic Bags,6-7/8  x 10-1/2  with 2  Flap - (100 Sleeves)
 img="https://m.media-amazon.com/images/I/414pCCYXVSL._SL500_.jpg"
 description="1 1/2 inch flap for closure Made in United States Package Dimensions : 7.0 L x 12.0 H x 0.5 W (inches) Package Weight : 1.0 pounds"
 asin="B002MVMU08"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2116"
 >}} 
 {{< product 
@@ -87,7 +87,7 @@ title="BCW Silver Comic Bags - 200 Count"
 img="https://m.media-amazon.com/images/I/51soVCrqsFL._SL500_.jpg"
 description="2 packs of 100 bags each Holds silver age comics Acid-free, safe storage Use with BCW Silver Backing Boards Exterior Dimensions: 7 1/8  x 10 1/2 "
 asin="B08K3RR8NB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1851"
 >}} 
 {{< product 
@@ -95,7 +95,7 @@ title="BCW 1-CUR-R-Thick Current Resealable Comic Book Bags"
 img="https://m.media-amazon.com/images/I/411heFENpzS._SL500_.jpg"
 description="500 BCW current resealable thick comic bags Each holds one current comic book Acid-free safe storage Use with BCW current or modern backing boards"
 asin="B005H7QWPS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1124"
 >}} 
 {{< product 
@@ -103,7 +103,7 @@ title="BCW Current Bag and Board 200 Bags and 200 Boards"
 img="https://m.media-amazon.com/images/I/51kUwuyO5EL._SL500_.jpg"
 description="200 Current Size Bags & Boards Bags 1 1/2 inch flap for closure Boards Certified Acid Free - Independent Lab Tested Boards Buffered with 3% calcium carbonate"
 asin="B001MDF4UA"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1851"
 >}} 
 ## How long do Mylar comic book bags last?

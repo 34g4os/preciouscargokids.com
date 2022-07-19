@@ -39,7 +39,7 @@ title="LifePro Vibration Plate Exercise Machine - Whole Body Workout Vibration F
 img="https://m.media-amazon.com/images/I/41MYYTo6GqL._SL500_.jpg"
 description="BUILD YOUR DREAM BODY - Jump on your vibrating exercise machine to instantly sculpt your ideal body! The Waver body vibration machine creates full-body vibrations for muscle contraction & activation. BEYOND FAT BURNING - The vibration platform or vibration exercise machine improves muscles, metabolism, circulation & bone density & reduces joint stress. Yoga straps & resistance bands included. ANY SPEED YOU WANT. Switch between speed settings from 1 to 99, maximizing your workouts. Wheels, remote & easy-read desplay are attached to the whole body vibration machine for maximum convenience. SPECIAL CUSTOMER BONUSES - Making the body vibrating machine even better, we ve included an extensive, user-friendly manual, live support and instant access to free professional online workout videos! A DISPLAY TO BEHOLD - All the information about your body shaker workout machine functions are displayed on the easy to read screen, giving you maximum control with ease."
 asin="B0794BXVY4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2431"
 >}} 
 {{< product 
@@ -47,7 +47,7 @@ title="LifePro Rhythm Viberation Plate Machine - Professional Whole Body Vibrati
 img="https://m.media-amazon.com/images/I/41t01p-G06L._SL500_.jpg"
 description="GENTLE, THERAPEUTIC RECOVERY: Regain muscle tone, balance and with this vibration platform. Gentle, therapeutic vibrations wake up muscles throughout your body, improving balance, circulation and increasing blood flow and oxygen delivery to the muscles. This, in turn, enhances your body’s built-in ability to regenerate cells and repair itself - increasing motion, flexibility and comfort from the very first session. RELIEVE CHRONIC & ACUTE PAIN: If you live in constant pain, most likely you’ve learned to bury it beneath a regular regimen of painkillers. But what if you could fix the underlying issue? The Rhythm Body Shaker Exercise Machine delivers efficient and gentle Whole Body Vibration (WBV), to help relieve chronic pain, heal old damage, and accelerate recovery from recent injuries. MONITOR & IMPROVE: Use the Rhythm Whole Body Vibration Machine daily to find yours. Studies suggest that long-term use of vibration platforms leads to even greater benefits, as all the limbs and ligaments of the body gain greater flexibility and freedom of motion. Use the built-in handles to maintain balance and monitor your heart as you improve. GUIDANCE AS YOU GO: Not everyone can afford regular therapy, but at Lifepro, we’re here to make it easy to be supported throughout your journey, by offering our Guiding Angels: Real, LIVE support, plus FREE access to our online video library. 100% LIFETIME WARRANTY. Every platform bearing our name undergoes rigorous scrutiny to make sure it delivers on power and efficacy and a built-in lifetime warranty so you’re never left hanging."
 asin="B07TCCYXSS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2431"
 >}} 
 {{< product 
@@ -55,7 +55,7 @@ title="Vibration Plate Exercise Machine – Belmint Lymphatic Drainage Machine �
 img="https://m.media-amazon.com/images/I/41fJiSUWaOL._SL500_.jpg"
 description="VIBRATING PLATE EXERCISE MACHINE: The vibration exercise machine can improve bone density, lymphatic drainage, circulation and core muscles. To make the most of the full body workout machine and lose weight, perform exercises while on it daily. EXERCISE MANUAL INCLUDED: We send suggested exercise movements in the manual, as well as resistance bands with your vibrating plate exercise machine. (Please pull the band into the small circle at the end of the clip completely. Otherwise, it can break and pop off from your exercises.) AT HOME VIBRATION PLATFORM MACHINE: This whole body vibration machine is way more compact and lightweight than other brands, while it’s just as sturdy and effective. Mini sizing makes it easier to maneuver + store in your home. Your home is more comfortable than the gym, as this works well and shakes vigorously. USER-FRIENDLY: It’s fun workout equipment for women or men with it’s bluetooth speaker that can blast music. Choose your own speed level, from 1 - 99 and use the remote instead of bending. HEALING AND PAIN RELIEF: This is used as healing exercise equipment for seniors, arthritis, osteoporosis, after injury, back pain, fibromyalgia etc. It’s vital to ask your doctor for permission before using. With your doctor’s approval, it can be amazing to reduce pain. ONE YEAR WARRANTY: You are buying high performance fitness gear that ll hold up to 265 lbs of weight. And we stand behind that statement with a premium 1 year warranty. If you encounter any issue, please contact us for a replacement or your money back. WEIGHT LOSS: The vibrating platform gives more power to regular exercise movements. Perform exercise steps on the machine to tone, strengthen or burn fat."
 asin="B08P3TT1ZS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2424"
 >}} 
 {{< product 
@@ -63,7 +63,7 @@ title="LifePro RelaxaVibe Vibration Plate Exercise Machine - Vibration Platform 
 img="https://m.media-amazon.com/images/I/41nqxs-dibL._SL500_.jpg"
 description="VIBRATION PLATFORM MACHINE FOR FAST REHABILITATION & REPAIR: RelaxaVibe enhances your built-in ability to regenerate cells so your body repairs & revives itself & you feel healthy & full of life. JOINT COMFORT: Our body vibration machine is designed to reduce stress on joints while still providing effective vibration treatment & comprehensive movements so you can enjoy joint- & back-pain relief. BETTER BLOOD CIRCULATION & REVITALIZATION: The Lifepro vibration plate exercise machine improves blood circulation toning your muscles so you can improve your core strength & control your blood pressure. SAY GOODBYE TO EXCESS WEIGHT: Our powerful vibration platform helps you boost your metabolism, burn fat faster & sculpt a fit body. And you can enjoy all benefits comfortably sitting in your living room! BLISSFULLY RELAXING HEATED OTTOMAN: Enjoy muscle & nervous system soothing with the unique heated ottoman of our silent vibration platform while reading or watching TV. Relax & feel all stress drain away!"
 asin="B08YM2DFFL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2431"
 >}} 
 {{< product 
@@ -71,7 +71,7 @@ title="LifePro Rumblex 4D Pro Vibration Plate - Whole Body Vibration Platform Ex
 img="https://m.media-amazon.com/images/I/51lo+SUL+OL._SL500_.jpg"
 description="SUPERCHARGE YOUR WORKOUT: Whatever your routine, Rumblex Pro gives you a boost through Whole Body Vibrations (WBV). As you work out, these multidirectional vibrations activate and engage muscles throughout your body, accelerating muscle contractions to help you build strength faster. You’ll feel the effects from the very first session, and continued, regular use helps you break through plateaus and build muscle tone everywhere REPAIR INJURIES & RELIEVE PAIN: Enjoy all the benefits of a rehabilitative session from home. Amongst its many benefits, this whole body vibrating platform calms the nervous system, greatly improves bone density, and strengthens your core for greater balance. Its therapeutic vibrations improve blood circulation, protect your nerves and bones, repair old injuries, and loosen stiff joints, providing you with true, lasting pain relief and a greater range of motion as you continue to improve. FULLY LOADED: Not just a platform - your Rumblex Pro is an entire workout system. Harness the built-in rings to hook up a wide range of included workout bands, straps, and accessories to sweat and move with. Access our step-by-step training sessions with our Guiding Angels, from beginner all the way through expert. BLISSFULLY SILENT: Because most prefer a quieter home workout, we’ve eliminated all alarms and beeps from this model. And thanks to our platform’s 3 whisper-quiet, top-of-the-line motors, the only sounds you’ll hear are the ones you make as you sweat - unless, of course, you choose to stream music through the built-in Bluetooth speakers. A LIFETIME OF WORKOUTS: Every platform bearing our name undergoes rigorous scrutiny to make sure it delivers on power and efficacy and a built-in lifetime warranty so you’re never left hanging."
 asin="B084L1R7D2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2431"
 >}} 
 {{< product 
@@ -79,7 +79,7 @@ title="LifePro Rumblex Plus 4D Vibration Plate Exercise Machine - Triple Motor O
 img="https://m.media-amazon.com/images/I/51bnZxzxYvL._SL500_.jpg"
 description="VIBRATION PLATFORM MACHINE FOR FAST REHABILITATION & REPAIR: Rumblex Plus enhances your built-in ability to regenerate cells so your body repairs & revives itself, feeling healthy & full of life. CAREFULLY ENGINEERED FOR JOINT COMFORT: We designed the Rumblex Plus Body Shaker Exercise Machine with a revolutionary surface, calibrated to reduce stress on joints while still providing effective vibration exercise machine healing, and comprehensive movements. BETTER BLOOD CIRCULATION & REVITALIZATION: Our vibration plate exercise machine improves blood circulation invigorating your muscles so you can train like a champion. SAY GOODBYE TO EXCESS WEIGHT: A clinically proven way to melt fat, our powerful vibration platform helps you boost your metabolism & lose weight while forging a muscular & tight body. BLISSFULLY SILENT VIBRATION PLATFORM MACHINE: Enjoy your muscle relaxation and nervous system soothing with the smooth & silent vibration platform while you rest, read, or watch TV."
 asin="B084KZ4J6N"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2431"
 >}} 
 {{< product 
@@ -87,7 +87,7 @@ title="Axis-Plate Whole Body Vibration Platform Training and Exercise Fitness Ma
 img="https://m.media-amazon.com/images/I/41mq-XMpFzL._SL500_.jpg"
 description="Premium Quality: Featuring a time-tested motor and sturdy steel construction to support up to 265 pounds, this commercial-grade, professional quality vibration plate delivers 500 watts of power for effective, low-impact training for all fitness levels. Machine is equipped for safety with an oversized non-slip base plate, a US-standard 120 volt grounded power cord, and non-skid rubber feet FULL-BODY VIBRATION: Get customizable stimulation for whole body vibration with 99 speed settings, 3 pre-programmed workouts, and a manual mode option. Handles feature built-in BMI sensors for progress monitoring, and accessories include removable resistance bands to engage the upper body for a complete workout EASY OPERATION: Beginners and advanced users alike will enjoy this vibration platform, which features an easy-to-read control panel, enabling convenient speed control at the touch of a button Large Platform: Measuring 27-1/2-inch long x 29-inch wide, this machine’s extra-large vibrating plate provides plenty of safe and secure room for comfortable positioning SLEEK, COMPACT DESIGN: Equipped with front-mounted wheels for easy portability, this vibration machine’s compact yet efficient design allows for use anywhere, from a bedroom to an office"
 asin="B01N4ITT9X"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="7281"
 >}} 
 {{< product 
@@ -95,7 +95,7 @@ title="FITPULSE Premium Vibration Plate Exercise Machine with Resistance Bands, 
 img="https://m.media-amazon.com/images/I/51quZVM2g+L._SL500_.jpg"
 description="Lose Weight Faster - Fitpulse Vibration Plate will enhance your exercise to burn fat and clear cellulite in half the time. Our vibrating plate exercise machine will help stimulate your every muscle and activate natural lymphatic drainage to boost detox and natural weight loss. Tone Your Muscles - Get fitter by simultaneously working out all your muscles with our vibration platform machines! The vibrations stimulate extra muscle contractions without straining your heart and joints, doubling the effects of your regular workout. Safer, more effective, and more efficient whole body workout! Meet Your Fitness Goals - The FitPulse Whole Body Vibration Platform can help you improve your balance, core strength, fat percentage, and circulation. Combine the vibration platform with different stationary equipment like the free & included resistance bands for a more effective workout! Customized Workout - The easy to use controls have 3 different speed levels for you to choose. Increase or decrease the intensity according to your ability, energy level, and fitness needs with the buttons on the plate or the remote, or choose one of the 10 pre-programmed modes designed to meet specific fitness goals! Fitness Solutions for All - A forward-thinking fitness brand, FitPulse is focused on providing you with the tools you need that support your wellness journey and fitness goals, from beginners to advanced. If you have any questiosn about your purchase, simply reach out to us and we ll be happy to help!"
 asin="B08JQ68W6M"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="556"
 >}} 
 {{< product 
@@ -103,7 +103,7 @@ title="NIMTO Vibration Plate Exercise Machine Whole Body Workout Vibration Fitne
 img="https://m.media-amazon.com/images/I/41U8g0myc+L._SL500_.jpg"
 description="【XXL VERSION, STABLE】32  x 19.3  x 7.5  Weight Limit 440 LBS, Larger use area can support two people to use at the same time. Made of ABS with piano paint for high durability. Four non-slip suckers on the bottom ensure the stability of the machine while using. 【WHOLE BODY VIBRATION】NIMTO vibration plate exercise machine has a powerful and silent motor. Strong vibration melts away body fat in leg, hips, waist and arms while improves the production of collagen, build a perfect body. This work out fit vibration machine can help you lose weight while increasing your body flexibility. It helps your body process fat 30 times faster than running. 10 minutes on this vibration platform equals 1 hour in the gym. 【1 TO 99 SPEED SETTINGS】Remote easily controls the speed at the click of a button. LCD digital display has program selection, which can imitate walking, jogging, running, yoga, etc. This professional body vibration plate massager comes with 3 preset modes, allow you to try different vibration exercises or combine the vibration exercise with normal workout, sit-up, push-up, yoga, etc. Perfect for sports training, weight loss, burning fat. 【MULTI-FUNCTION MACHINE】Comfortable massage stone design. This device support USB & BT connect, compatible to phone, tablet, etc. Enjoy music while exercising. 【100% SATISFACTION GUARANTEE】You can have your routine exercise done in only 10 minutes everyday. What you ll get is a better shape and enhanced metabolism. Please read manual before use the vibration plateform machine. If you got any problems, just contact us for hassle-free after-sale service."
 asin="B08GWWSWK6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="91"
 >}} 
 {{< product 
@@ -111,7 +111,7 @@ title="TODO Vibration Platform Whole Body Vibrating Board for Weight Loss & Work
 img="https://m.media-amazon.com/images/I/41vVtqBCCzL._SL500_.jpg"
 description="【Whole Body Exercising at Home or Office】Vibration Plates could weight lose, relax muscles, stimulate blood circulation, and increase bone density. Activation after all stages of your workout! The waver especially sculpting the lower body and booty. 【MULTI-SPEED with Auto and Manual Mode】The vibration plate will vibrate regularly when you select an auto mode. You could also enjoy the wide range of speed settings from 1 to 99. 【LCD Screen Touch & Remote Control】With comfortable touching, do not need to press the button vigorously, LCD will show all the details. Or you could use the remote, it’s easy and convenient to operate. 【Enjoy Music While Exercising】It supports Bluetooth & USB connection, you can listen to music from all Bluetooth compatible devices such as phone, MP3 Player, or Tablet PC. 【Superior Quality Guarantee & 100% Satisfaction】TODO the most trustworthy Vibration Plate and excellent & safe home exercise equipment. Whatever you want to know or any problems you met, please feel free to contact us. Just click: Contact Sellers”."
 asin="B07YWDLGZ8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="208"
 >}} 
 ## Are vibration plates any good for losing weight?

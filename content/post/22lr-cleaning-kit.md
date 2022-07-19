@@ -25,7 +25,7 @@ title="Allen Company Ruger Rimfire Gun Cleaning Kit, .22 Caliber Rifles & .22 Ca
 img="https://m.media-amazon.com/images/I/416J0-1tTDL._SL500_.jpg"
 description="Designed for use with .22 caliber rimfire rifles or handguns Keep your firearm clean with all the essential cleaning pieces in one kit Includes bronze brushes, jags, slotted tips, cleaning brushes, cotton swabs, and cleaning patches Mulit-piece rod with handle 16 pieces, including a durable, organized case"
 asin="B019KATAJM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Hoppe s Cleaning Kit for .22-.255."
 img="https://m.media-amazon.com/images/I/41qzP6yWt-L._SL500_.jpg"
 description="Packaged in a clamshell Hoppe s No. 9 cleaning kit with aluminum rod Includes one 4 oz. bottle cleaning solvent and one 2-1/4 oz. lubricating oil Brush for the intended caliber is included with this kit. Intended for .22, .222, .223, .224, .225, .243, .25, .25-06, .257 caliber rifles and pistols Packaged in a clamshell"
 asin="B000H6HA28"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="593"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Otis Technologies Patriot Series , Black, .22 cal rifle"
 img="https://m.media-amazon.com/images/I/41fCEr5jbES._SL500_.jpg"
 description="100% cotton 2  patches (10);Short all-purpose brush with rods for extended reach;.17 & .22 cal bronze bore brushes and mops;34  Memory-Flex cables and small slotted tip;Reusable hard case"
 asin="B01DL96ZEQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Hoppe s Legend Cleaning Kit, .22+ Caliber Rifle"
 img="https://m.media-amazon.com/images/I/41LJfUH-IqL._SL500_.jpg"
 description="2 oz. Of famous Hoppe s No. 9 solvent 4 oz. Aerosol of Hoppe s lubricating oil Three-piece aluminum rod with accessories Capture the essence of the legendary Hoppe s brand with a selection our most popular gun cleaning products Each legend kit comes in its own reusable box; convenient for traveling Includes 2 oz. Hoppe s No. 9 Gun Bore Cleaner, 4 oz. Hoppe s Lubricating Oil, long-lasting nylon brush, cleaning patches, 3-piece aluminum rod with all accessories and brushes Intended for .22+ caliber rifles"
 asin="B000CPKAUS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Hoppe s No. 9 Cleaning Kit with Aluminum Rod, .22 Caliber Pistol"
 img="https://m.media-amazon.com/images/I/41mrI3ZuPYL._SL500_.jpg"
 description="Packaged in a clamshell Hoppe s No. 9 cleaning kit with aluminum rod Includes one 4 oz. bottle cleaning solvent and one 2-1/4 oz. lubricating oil Brush for the intended caliber is included with this kit. Intended for .22 caliber pistol Packaged in a clamshell"
 asin="B001MQNJ4U"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="593"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Hoppe s No. 9 Cleaning Kit with Aluminum Rod, Universal .22-.225 Caliber 
 img="https://m.media-amazon.com/images/I/41qzP6yWt-L._SL500_.jpg"
 description="Long lasting and built for the outdoors Hoppe s No. 9 cleaning kit with aluminum rod Includes one 4 ounce. bottle cleaning solvent and one 2 1/4 ounce. lubricating oil Brush for the intended caliber is included with this kit Intended for .22, .222, .223, .224, .225, .243, .25, .25-06, .257 caliber rifles and pistols Packaged in a box, not clamshell"
 asin="B0002INOZ8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="593"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Gunmaster 22 Caliber Pistol Cleaning Kit (14-Piece)"
 img="https://m.media-amazon.com/images/I/51QrPv6o6HL._SL500_.jpg"
 description="14 piece cleaning kit For a 22 caliber Pistol Custom molded tray in a clear top dual bond molded TPR locking case Pistol Cleaning"
 asin="B00AU6DOC0"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="33"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Funpower Rifle Gun Cleaning Kit Set Pistol Brushes Cleaner for 5.56mm .22
 img="https://m.media-amazon.com/images/I/51h3T9pBvdL._SL500_.jpg"
 description="The cleaning kit is a simple and efficient pistol cleaning kit. This kit is small to carry, and also perfectly clean your gun. Great clean tool for .22LR, .223, .257, 5.56mm rifle or shotgun. Light weight, easy to carry, suitable for outdoor camping, hiking, hunting, travel and so on. Perfect for firearm maintenance, easy to clean hard-to-reach place. Just bring this green bag,it will meets your all kinds of cleaning needs."
 asin="B088GQMB52"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="46"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Hoppe s No. 9 BoreSnake Soft-Sided Gun Cleaning Kit, .22 Caliber Rifle"
 img="https://m.media-amazon.com/images/I/51SPZk45ACL._SL500_.jpg"
 description="include everything you need to clean your firearms Light and portable End has brass weight to drop through bore 100% designed and tested for the toughest situations and environments Take this complete, super compact BoreSnake Gun Cleaning Kit anywhere The rugged, soft-sided case attaches easily to a belt and fits compactly into a box or bag Includes BoreSnake, Hoppe s No. 9 Solvent, Hoppe s Lubricating Oil, Hoppe s Weatherguard Cloths and pulling tool Intended for .22 caliber rifle"
 asin="B0014VTW12"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="42"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Winchester 14 Piece .22 Caliber Pistol Cleaning Kit"
 img="https://m.media-amazon.com/images/I/41FLs0nWRVL._SL500_.jpg"
 description="Product Type: Sporting Goods Item Package Dimensions: 17.78 L X 8.128 W X 3.048 H (Cm) Country Of Origin: China Item Package Weight: 0.45 Pounds"
 asin="B00CLFDJKU"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="33"
 >}} 
 ## What's the best thing to clean your gun with?

@@ -25,7 +25,7 @@ title="Mongoose Kong Fat Tire Mountain Bike for Kids, 20-Inch Wheels, Blue"
 img="https://m.media-amazon.com/images/I/51ITy0in9jL._SL500_.jpg"
 description="The suggested rider height range for this bike is 48 to 60 inches tall and the frame size (seat tube length) is 13 inches A Shimano rear derailleur with seven speeds makes hills easier to climb, while twist shifters make it smooth and easy to change gears while riding The threadless headset is adjustable for riders of different heights; For added speed and performance, the strong, lightweight alloy rims keep the weight down Ride comfortably with beach cruiser pedals and ensure safety with front and rear disc brakes Conquer any off road trail with ease with this steel-framed mountain bike with 4.25 inch supersized all terrain knobby tires"
 asin="B00UQ7RBFE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Hiland Kids Fat Tire Bike, Shimano 7-Speed,Dual-Disc Brake,20 Inch, Kids 
 img="https://m.media-amazon.com/images/I/511lx0Og2wL._SL500_.jpg"
 description="【High Carbon Steel】Hiland frames are made from High Carbon Steel and have a geometry with a roomy top tube and short chainstays for easy climbing and confident descending. 【Double Disc Double Safety】Hiland kid s fat-tire bikes feature a dual mechanical disc, which ensures that the child can stop immediately in case of emergency. 【Wide Tire】The 20/24*4.0-inch tires run with very low air pressure, making for a great ride experience on mountain roads, highways, and forest ways. Suitable for beach, snow, and other types of road. 【Shimano Gearing】SHIMANO TY300D rear derailleur and MICROSHIFT MS25 grip shifter to ease kids into how to use gears, provide 7 Speed gears for your little ones to make it up and down almost anything. 【Assembly&Size Guide】85% pre-assembled, tools included. If you have any questions about bikes, Please do not hesitate to contact us. The 20-inch bike fits 42-56˝Tall Kids, 24-inch bike fits 51  -59   Tall Kids."
 asin="B089GLKDH7"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="163"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Dynacraft 8107-57TJD Boys 20-Inch Sixteen20 Krusher Bike, Red/Black"
 img="https://m.media-amazon.com/images/I/41u6UcMtWOS._SL500_.jpg"
 description="Deluxe Paint BMX style steel frame Deluxe 20  tires with Stomper 2x2 graphics Alloy rims included Steel coaster brake"
 asin="B00J40B2GS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Mongoose Argus MX Kids Fat Tire Mountain Bike, 20-Inch Wheels, Single Spe
 img="https://m.media-amazon.com/images/I/51oa-6rq+aL._SL500_.jpg"
 description="Kids’ fat tire mountain bike with BMX flair for all-terrain adventures. Fits riders ages 6 and up, or 4 to 5 feet in height. Single speed drivetrain is easy to use and maintain. Rear alloy V-brake delivers sure stopping power. BMX style components provide control and style. 20 x 4.25 inch knobby mountain fat tires provide excellent stopping power and tons of traction in sand and snow."
 asin="B086QKRB5Y"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="AVASTA 20 Inch Kids Fat Tire Bike Boys Girls Shimano 7 Speed Mountain Bik
 img="https://m.media-amazon.com/images/I/41t183HvvfL._SL500_.jpg"
 description="【Rugged Frame】- The frames of these mountain bikes are made of high carbon steel for strong support strength. The geometry creates a roomy top tube and short chainstays for easy climbing and confident descending. 【Excellent Shifting And Disc-Brake】- The brake system consists of double Disc-Brake. L-TWOO trigger Shifter and SHIMANO TY300D 7-speed Shifter ensures total control in every situation. 【Wider Tire For More Fun】- Width up to 4 inches, 5 times more wear resistance than ordinary bicycle tires. Strong grip and anti-slip, Fully capable of challenging any terrain, can conquer any off-road trails, city roads, beaches and snow. 【Easy To Install】- The bike is 85 % assembled and comes with the basic assembly tools,only a few pars need to be added to the bike,will take about 20 minutes. 【Please Check The Size】- Fits riders ages 6 and up, or 4 to 5 feet in height."
 asin="B09CD8XVTH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="39"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Hycline Fat Tire,20x4.0 Inch Fat Bike Tires Folding Replacement Electric 
 img="https://m.media-amazon.com/images/I/41fIyGlER-L._SL500_.jpg"
 description="Size: 20x4.0 inch;TPI :30; Max Inflate to 20 P.S.I. Open and aggressive tread design gives the Hycline fat tire excellent soil penetration and mud-clearing ability. With tight convex knobs tread pattern provide it an excellent grip on all kinds of roads. Enhanced braking performance and traction on hard surfaces. Wide tire volume brings better control and less drag, Premium rubber material with excellent puncture resistance, suitable for riding on beach, snow, rough terrain and street. Carbon Steel bead design allows tire to be folded without damage for easy storage. Hycline fat tire is a specific bike tire designed for trail riding.Suitable for bicycles, electric bicycles, snowmobiles, mountain bikes. Note: Package includes one bike tire,not including wheel rims.Both front and rear wheels can be used."
 asin="B09GP71R1N"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="210"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Mongoose Legion L18 Kids Freestyle Sidewalk BMX Bike for Kids, Children a
 img="https://m.media-amazon.com/images/I/417fRrCXiSL._SL500_.jpg"
 description="The Legion L16 is a great first BMX bike for young riders that features the geometry and feel preferred by today’s riders; Suggested rider height is 3 6  and smaller The Legion L18 features a durable Hi-Ten steel frame with 16.9  top tube length Drivetrain features a 140 mm one-piece crank with a 25T alloy chainring and American loose ball bottom bracket 18” x 2.3” tires mounted on aluminum single wall 28H rims with 3/8” in axle front hub and 9T cog ball bearing cassette rear hub Hi-Ten steel handlebar and fork, 40 mm stem, standard 1-1/8” headset, and aluminum U-brake"
 asin="B07WLK1DXQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="MOHEGIA Fat Tire,20 x 4.0 inch Fat Bike Tire,Folding Bead Electric Bike T
 img="https://m.media-amazon.com/images/I/41DRx3vZElL._SL500_.jpg"
 description="Fat tire size: 20×4.0 inch. Inflate to 20 P.S.I;TPI :30. Aggressive tread pattern has greater traction, handles sharp turns on both pavement and loose dirt . Wide tire volume brings better control and less drag, providing the ride with a balance of grip and rolling resistance. Heavy duty rubber tires for superior puncture resistance and fit great ride on the beach, snow,rough terrain and street. Foldable carbon steel bead easy to folded and carried,as a replacement tire without damage. MOHEGIA fat tire feature exceptional performance for stable speed and ride safety,suitable for fatbike,electric bicycles, snowmobiles, mountain bikes ,beach trike. Note: Package includes one bike tire.Both front and rear wheels can be used."
 asin="B09GVTZ7MQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="232"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="LEGO Star Wars: The Mandalorian The Razor Crest 75292 Exclusive Building 
 img="https://m.media-amazon.com/images/I/51-e5UA3mEL._SL500_.jpg"
 description="Kids can role-play as heroic warrior The Mandalorian and play out action-packed Star Wars: The Mandalorian scenes with this detailed, LEGO brick model of The Razor Crest (75292) starship This fun buildable toy includes 4 LEGO minifigures: The Mandalorian, Greef Karga, Scout Trooper and the Child, plus an IG-11 LEGO figure, all with cool weapons to role-play exciting battles The Razor Crest has a dual LEGO minifigure cockpit, 2 spring-loaded shooters, cargo hold with opening sides/access ramps and carbonite bounty elements inside, sleeping area and detachable escape pod for creative play This 1,023-piece construction playset offers a challenging build and combines brilliantly with other LEGO Star Wars sets, and makes a great holiday gift or birthday present for boys and girls ages 10+ The Razor Crest dreadnought measures over 5.5” (14 centimeter) high, 15” (38 centimeter) long and 11” (28 centimeter) wide, and it makes an eye-catching Star Wars: The Mandalorian display piece when it is not being used to transport vital cargo"
 asin="B0849GZMZH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Elecony Nunu-T100 20 Inch Fat Tire Bike Boys Girls Shimano 7 Speed Mounta
 img="https://m.media-amazon.com/images/I/512bi91KqmL._SL500_.jpg"
 description="🏆【Unique Shock Absorbing Design】- These all-terrain MTB feature shock-absorbing front forks. The thickened outer wall is more resistant to shocks. The thickened shock absorbers help absorb shocks. The parallel bars can adapt to pressure road conditions. Greatly improve the comfort during riding and allows kids to enjoy riding. 🏆【Full Shimano Gearing Kit】- Unlike some sellers who use low-cost grip shifters, we feature a full Shimano gearing kit, not just gears and rear derailleurs, we also use Shimano grip shifters, just to provide a comfortable riding experience for your child. 🏆【Wider Tire For More Fun】- Width up to 4 inches, 5 times more wear resistance than ordinary bicycle tires. Strong grip and anti-slip, Fully capable of challenging any terrain, can conquer any off-road trails, city roads, beaches and snow. It allows kids to focus on playing! 🏆【Double Disc Double Safety】- Elecony boys and girls fat tire bikes feature a dual disc brake system. Both front and rear are equipped with mechanical disc brakes, which can greatly reduce the braking distance and ensure that the child can stop immediately in case of emergency. 🏆【Rugged Frame】- The frames of these mountain bikes are made of high carbon steel for strong support strength. Ergonomically designed, wear-resistant and corrosion-resistant, they provide a safe and reliable travel solution for teenagers."
 asin="B09D7LQ5T6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="90"
 >}} 
 ## Are fat tire bikes easier to ride?

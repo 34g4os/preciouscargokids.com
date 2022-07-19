@@ -37,7 +37,7 @@ title="Oxford Filler Paper, 8 x 10-1/2 Inch Wide Ruled Paper, 3 Hole Punch, Loos
 img="https://m.media-amazon.com/images/I/417TL0BQDHL._SL500_.jpg"
 description="More per carton; this mega-box of Oxford loose leaf paper has five 100-sheet packs of wide ruled paper for note taking, list making & showing your work through all of your academic endeavors For binders & more; 8  x 10-1/2  notebook paper sheets are letter sized with 3 hole punch to fit standard ring binders & pocket folders with fasteners Wide ruled for younger students; pick the preferred notebook paper ruling for large, legible handwriting; the 11⁄32  spacing keeps notes neat and orderly Good paper for everyday; Oxford provides quality binder paper perfect for normal everyday notetaking with your favorite ink or gel pens or pencil with minimal ink smearing or ink bleed through A stock up staple; the number one teacher supply request and the most useful and versatile item on your back to school shopping list; shop for the school year or replenish your stock for 2nd semester"
 asin="B08VFFB23B"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -45,7 +45,7 @@ title="Mrs Fizz Crinkle Cut Paper Shred Filler for Packing and Filling Gift Bask
 img="https://m.media-amazon.com/images/I/61Kh5ZssPNL._SL500_.jpg"
 description="Large two pound box measures 16” x 10” x 6” Made in the USA by a small family-owned and operated business Recycled paper crinkle packaging is recyclable and biodegradable. This is a new product made from recycled materials. Non-toxic kraft natural crinkle paper is free of dyes, inks, chlorine, bleach, or acids. Safe for pets and people. Versatile crinkle paper for packaging is the perfect decorative shredded paper for gift boxes and baskets. Can also be used as packaging filler for subscription boxes and mailers. Safe for use as small pet bedding, bird foraging shred filler, and sensory play for children."
 asin="B01MSZSMXH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="84"
 >}} 
 {{< product 
@@ -53,7 +53,7 @@ title="Crinkle Cut Paper Shred Filler (1/2 LB) for Gift Wrapping & Basket Fillin
 img="https://m.media-amazon.com/images/I/51nWPtKt3rL._SL500_.jpg"
 description="Contains (1/2 LB) Of Crinkle Cut Paper Shred Filler - Diamond White Crinkle cut colored shredded paper makes a great bed for displaying your product Perfect for Gift Wrapping & Basket Filling those extra spaces you have in your packages Attractive void fill for baskets and gift boxes. Use it for any occasion such as Birthday, Anniversary, Wedding, Valentines  Day, Christmas and etc."
 asin="B07D3N2DLY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1057"
 >}} 
 {{< product 
@@ -61,7 +61,7 @@ title="Five Star Loose Leaf Paper, 3 Hole Punched, Reinforced Filler Paper, Coll
 img="https://m.media-amazon.com/images/I/51QTT2gvaHL._SL500_.jpg"
 description="LASTS ALL YEAR. GUARANTEED! Durability at its finest, Five Star college ruled, reinforced filler paper is double the strength of competition and stays securely in your binder. More durable, patent-pending triangular holes and stronger reinforcement tape resist tearing from rings Heavyweight, 20 lb. paper resists ink bleed*** and provides a high-quality writing surface for your notes and homework Triangle-shaped holes help pages turn more easily. Made in the U.S.A. Single pack of 100 loose-leaf, college ruled, double-sided sheets. Overall size of 11  x 8-1/2 ."
 asin="B01BLVANG2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -69,7 +69,7 @@ title="Crinkle Cut Paper Shred Filler (1/2 LB) for Gift Wrapping & Basket Fillin
 img="https://m.media-amazon.com/images/I/51IoghfFVYL._SL500_.jpg"
 description="Contains (1/2 LB) Of Crinkle Cut Paper Shred Filler - White Crinkle cut colored shredded paper makes a great bed for displaying your product Perfect for Gift Wrapping & Basket Filling those extra spaces you have in your packages Attractive void fill for baskets and gift boxes. Use it for any occasion such as Birthday, Anniversary, Wedding, Valentines  Day, Christmas and etc."
 asin="B0752F6NRV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1057"
 >}} 
 {{< product 
@@ -77,7 +77,7 @@ title="Crinkle Cut Paper Shred Filler (2 LB) for Gift Wrapping & Basket Filling 
 img="https://m.media-amazon.com/images/I/51IoghfFVYL._SL500_.jpg"
 description="Contains (2 LB) Of Crinkle Cut Paper Shred Filler - White Crinkle cut colored shredded paper makes a great bed for displaying your product Perfect for Gift Wrapping & Basket Filling those extra spaces you have in your packages Attractive void fill for baskets and gift boxes. Use it for any occasion such as Birthday, Anniversary, Wedding, Valentines  Day, Christmas and etc."
 asin="B07F6FRWTB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1057"
 >}} 
 {{< product 
@@ -85,7 +85,7 @@ title="Crinkle Cut Paper Shred Filler (2 LB) for Gift Wrapping & Basket Filling 
 img="https://m.media-amazon.com/images/I/61-rUDPnV+L._SL500_.jpg"
 description="Contains (2 LB) Of Crinkle Cut Paper Shred Filler - White & Gold Crinkle cut colored shredded paper makes a great bed for displaying your product Perfect for Gift Wrapping & Basket Filling those extra spaces you have in your packages Attractive void fill for baskets and gift boxes. Use it for any occasion such as Birthday, Anniversary, Wedding, Valentines  Day, Christmas and etc."
 asin="B07F6SVRT2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1057"
 >}} 
 {{< product 
@@ -93,7 +93,7 @@ title="Crinkle Cut Paper Shred Filler (2 LB) for Gift Wrapping & Basket Filling 
 img="https://m.media-amazon.com/images/I/61yGtjlWFlL._SL500_.jpg"
 description="Contains (2 LB) Of Crinkle Cut Paper Shred Filler - Kraft Crinkle cut colored shredded paper makes a great bed for displaying your product Perfect for Gift Wrapping & Basket Filling those extra spaces you have in your packages Attractive void fill for baskets and gift boxes. Use it for any occasion such as Birthday, Anniversary, Wedding, Valentines  Day, Christmas and etc."
 asin="B07F6D6DKV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1057"
 >}} 
 {{< product 
@@ -101,7 +101,7 @@ title="Mead Loose Leaf Paper, College Ruled, 200 Sheets, 10-1/2  x 8 , Lined Fil
 img="https://m.media-amazon.com/images/I/41TsilUiIvL._SL500_.jpg"
 description="A practical choice for all your notetaking needs, Mead Filler Paper is perfect for in-class assignments, homework and more Sheets measure 10 1/2  x 8 . Collegee ruled, double-sided sheets provide plenty of notetaking space. College ruling is ideal for the older student who prefers more lines per page Paper is 3-hole punched to store in your favorite binder One pack includes 200 sheets of paper Crafted with pride and assembled in the U.S.A."
 asin="B000068UWB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -109,7 +109,7 @@ title="Amazon Basics Wide Ruled Loose Leaf Filler Paper, 120 Sheets, 10.5 x 8 In
 img="https://m.media-amazon.com/images/I/41YzjKPx3-L._SL500_.jpg"
 description="120 sheets of loose-leaf filler paper (6-pack); 56 gsm weight paper stock; 92% brightness Wide-ruled format (11/32-inch) promotes neat, even lines of legible writing Convenient 3-hole punch for option to add to a binder Re-sealable storage bag helps preserve and protect unused sheets Paper measures 10.5 by 8 inches"
 asin="B07D2M51VS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## How many lines are on a sheet of loose-leaf paper?

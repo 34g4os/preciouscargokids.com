@@ -35,7 +35,7 @@ title="Neck and Shoulder Relaxer, Cervical Traction Device for TMJ Pain Relief a
 img="https://m.media-amazon.com/images/I/41Nqon5b4DL._SL500_.jpg"
 description="Relief neck pain in just 10 minutes. Simple and effective physical solutions to sooth away stiff neck, helps in restoring proper cervical curvature associated with consistent use. Dense and soft foam design provides sturdy, lightweight, and comfortable base. Can t be used as an ordinary pillow all night long. Normally you will need 1-3 days to adapt to this pillow, because your neck needs time to familiar with the new corrector curvature. You will enjoy an extreme comfort after you get used to it!"
 asin="B07QSFJ8S2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="3452"
 >}} 
 {{< product 
@@ -43,7 +43,7 @@ title="MAJESTIC PURE Himalayan Salt Body Scrub with Lychee Oil, Exfoliating Salt
 img="https://m.media-amazon.com/images/I/51uG7cTSP5L._SL500_.jpg"
 description="A Massage Body Scrub - Majestic Pure Himalayan Salt Scrub is formulated with powerful Natural Ingredients including Lychee berry, Sweet Almond Oil, and various Nutrients for their benefits on skin. Lychee Berry Oil has a soft, delicate scent and is rich in antioxidants and Vitamin C. Bath Scrub Detoxifies & Hydrates skin. It can be used by Men & Women. Himalayan Pink Salt Scrub - Himalayan salt is known for its impressive nutrient profile, which includes high trace amounts of calcium, magnesium, potassium, copper & iron. These nutrients help detoxify skin by balancing pH levels in the body. The pink salt crystals act as a pore-minimizer to restore smooth, soft skin; Himalayan Salt color can vary from light to dark pink color hence the scrub color may vary. Detoxification + Hydration - Salt Body Scrub Exfoliate for Body removes dead cells, toxins, dirt, pollution, and from pores. Scrubbing with sea salt scrub also assists in rejuvenation of skin; leaving not only your skin revived but also refreshing your whole Mind, Body, and Spirit Skin Blemish Solution - Our unique blend of ingredients can help to reduce the appearance of Acne, Blackheads, Cellulite, Stretch Marks, Scars, and Excess Oil. A pore-minimizer and hydrating solution to leave your skin feeling smoother, softer, and firmer. Great leg exfoliator for strawberry legs. Cruelty-Free, Made in USA - At Majestic Pure Cosmeceuticals, we are proud to provide you with all-natural and naturally-based cruelty-free products made right here in the United States of America"
 asin="B01K8PEZMU"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="6378"
 >}} 
 ## Welcher Drucker druckt auf Leinwand?

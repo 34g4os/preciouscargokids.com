@@ -16,7 +16,7 @@ title="Naicissism Colorado Flag Hat Adjustable Trucker Hat for Colorado State Gr
 img="https://m.media-amazon.com/images/I/41N63DGlJrL._SL500_.jpg"
 description="【Colorado Vacations Shopping List】- If you don t want to looked all over souvenir shops while on vacation in Colorado and couldn t find a hat that you loved. This hat is absolutely what you was looking for! It fits well and is super cute! 【From Colorado State, Love Colorado State】- Enjoy Colorado with This Colorado Souvenir Hat. I believe you will like that you can rep your state and your teams with just one hat. Perfect for anyone who wants to show their pride or admiration of the state of Colorado. 【Reminiscent of Colorado Blue Sky】- If your family or friends who want to visit you in Colorado and of course you wanted to give them a souvenir as a moment of them visit, this Colorado hat will be a great choice. The iconic colors are reminiscent of the blue sky of Colorado and your happy memories. 【Colorado Style Instant Update】- Give an instant update to your Colorado local look by wearing this Colorado hat. Awesome for all Colorado state lovers. Wearing this Colorado hat during your outdoor activities, it will protect your skin from harmful UV rays and keep your hair out of your face and eyes and dont worried mess with your hair on your journey. 【Purchase Tips】- If there is any problem, just contact with us, we will handle with it immediately."
 asin="B07HQFHND2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="57"
 >}} 
 ## What kind of shoes should you wear in a kitchen?

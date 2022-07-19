@@ -25,7 +25,7 @@ title="XRELZRS Kitchen Duplex Outlet Covers Wall Plate Decorative Receptacle Cov
 img="https://m.media-amazon.com/images/I/41zJzk5AoOL._SL500_.jpg"
 description="Dimensions: Electrical outlet covers decorative standard size is 4.5 x 2.76 inch and can fit on most duplex receptacle. Home Decoration: Perfect farmhouse rustic decorative wall plate, perfect for kitchen, bathroom, office, living room, playroom, bedroom, girls room, boys room. Material: Made of plastic material to provide durability and sturdy, Smooth finish makes it easy to clean, enhance the look of your room. Easy to Install: Machine screws in a matching finish are included for easy installation, easy replacement of any wall plate of the same configuration. Perfect Gift: A perfect christmas presents and new year gifts for your relatives and friends."
 asin="B09KH8Q6C6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Pink Unicorn Cat Decorative 1 Rocker Light Switch Wall Plates Electrical 
 img="https://m.media-amazon.com/images/I/4119cFQtBFL._SL500_.jpg"
 description="STANDARD SIZE: 1 Gang Outlet Cover/Light Switch Wall Plate/No Service Blank： 4.5 X 2.76 In. 2 Gang. Light Switch Wall Plate：4.5 X 4.5 Inch. 3 Gang Light Switch Wall Plate：6.38 X 4.5 In. 1 Rocker Wallplate（Screwless with bottom plate/Including Screws：)：4.6 X 2.8/4.4 X 2.7 Inch. 2 Rocker Wallplate（Screwless with bottom plate/Including Screws)：4.7 X 4.6/4.6 X 4.5 In. 3 Rocker Wallplate（Screwless with bottom plate)：6.57 X 4.65 In Environmental protection material,Durable, flexible and easy to clean.UV printing, heat-resistant and fade-resistant. Standard size is easy to install, provides painted screws Suitable for all standard homes, offices or living spaces, giving your walls a new look. Perfect decorative home switch covers for DIY renovations projects or living room, kitchen, bedroom, bathroom, school, study, etc."
 asin="B09TDYM5YV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="0"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Gray Floral Leaves Blank Wall Plate Cover Decorative 1 Gang Electrical Ou
 img="https://m.media-amazon.com/images/I/41Dd8dy+EZL._SL500_.jpg"
 description="Blank Wall Plate Cover Size: 4.50 x 2.76 inch, please make sure to check your size before purchase. Excellent Material: Made of polycarbonate thermoplastic which is lightweight, withstand heat, impact, and fading. UV Cured: High gloss finish, protects from abrasions and scratches, smooth edges for easy cleaning. Beautiful Wall Plate Cover: Replaces existing household light switch or outlet standard white cover, fits all standard homes, office or living spaces. Easy To Install: Matched screws are included，easy replacement of any wall plate of the same configuration."
 asin="B09SZLS39K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="0"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="XRELZRS Marble Outlet Covers Decorative Single Duplex Wall Plate for Elec
 img="https://m.media-amazon.com/images/I/31fBtTxHBhL._SL500_.jpg"
 description="Standard Size: Decorative electrical outlet covers is 4.5 x 2.76 inch, and can fit on most duplex receptacle. Wall Art Decor: Good idea for home interior walls decor such as living room, bedroom, kitchen, bathroom, guest room, farmhouse, office and others. Easy Installation: Wall plate includes painted screws to match for easy mounting, easy replacement of any wall plate of the same configuration. Material: Made of polycarbonate thermoplastic material to provide durability, smooth finish with soft edges allow for easy cleaning. Perfect Gift Idea: Great idea for your family, friends on birthday, wedding day, anniversary, festival, Valentine s Day, Christmas and New Year and others."
 asin="B09M3XDYM9"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="6"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="XRELZRS Floral Leaves Outlet Covers Decorative Single Duplex Wall Plate f
 img="https://m.media-amazon.com/images/I/41mv7d4xZpL._SL500_.jpg"
 description="Standard Size: Decorative electrical outlet covers is 4.5 x 2.76 inch, and can fit on most duplex receptacle. Wall Art Decor: Good idea for home interior walls decor such as living room, bedroom, kitchen, bathroom, guest room, farmhouse, office and others. Easy Installation: Wall plate includes painted screws to match for easy mounting, easy replacement of any wall plate of the same configuration. Material: Made of polycarbonate thermoplastic material to provide durability, smooth finish with soft edges allow for easy cleaning. Perfect Gift Idea: Great idea for your family, friends on birthday, wedding day, anniversary, festival, Valentine s Day, Christmas and New Year and others."
 asin="B09M3V7R1L"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="6"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="BVOLFQO Forest Decorative Outlet Covers Wall Plate 1 Gang Duplex Receptac
 img="https://m.media-amazon.com/images/I/41vbt+uXKeL._SL500_.jpg"
 description="Standard Size: Decorative outlet covers is 4.5 x 2.76 inch and can fit on most duplex receptacle. Modern Wall Decor: Perfect farmhouse rustic decorative wall plate, perfect for kitchen, bathroom, office, living room, playroom, bedroom, girls room, boys room. Material: Decorative wall plates are made of polycarbonate thermoplastic, easy to clean and maintain with a damp towel or sponge. Easy Install: Machine screws in a matching finish are included for easy installation. Only include switch plate cover, light switch is not included. Perfect Gift: Perfect idea as home decoration and housewarming gift."
 asin="B09MYXJN48"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="0"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Double Toggle Light Switch Cover Decorative 2 Gang Wall Plate Faceplate f
 img="https://m.media-amazon.com/images/I/41Jx9TuB6pL._SL500_.jpg"
 description="Standard Size 4.5in x 4.5in Made of polycarbonate thermoplastic to withstand hard impact and help extend the life of the wall plates Round edge design prevents scratch, dust buildup and easy cleaning Cover up more wall defects and making your room more modern abstract and stylish Funny retro patterns can give an outlet a new look and make your room more modern and fashion"
 asin="B09TVMPS6N"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Art Rustic Wood Tree Silhouette Duplex Wall Plate Outlet Electrical Cover
 img="https://m.media-amazon.com/images/I/41JgvZl9+TL._SL500_.jpg"
 description="Double outlet switch cover/wall Plate -Size: 4.5 x 2.76 inches-(standard size) Please measure the size of the switch cover before purchasing. Rugged and durable: made of polycarbonate thermoplastic material, with durability, flexibility and elasticity, can withstand strong impact and gravity UV curing, high gloss, prevent abrasion and scratches. Easy to install:Matched screws are included，Easy replacement of any wall plate of the same configuration,easy to clean with a damp towel or sponge. Interesting decoration: very suitable for DIY decoration projects or repairs to upgrade the family bedroom or office,Add character to any room with this decorative wall switch cover plate. Fashion decoration: beautiful and stylish appearance, very suitable for living room, bedroom, bathroom, balcony, kitchen, office, hotel, shop and other commercial areas."
 asin="B09TDJ47W8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="8"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="XRELZRS Beach Outlet Cover Decorative Wall Plate Single Duplex Receptacle
 img="https://m.media-amazon.com/images/I/41a0iq6IPcL._SL500_.jpg"
 description="Standard Size: The wall plate for electrical outlet decorative is 4.5 x 2.76 inch, covers any outlet of same configuration. Material: Made of polycarbonate thermoplastic material to provide durability. Easy to clean and maintain with a damp towel or sponge. Easy Install: Machine screws in a matching finish are included for easy installation. Easy replacement of any wall plate of the same configuration. Multiple Sizes Available: The Wall plates are available in standard dimensions to cover varying amounts of wall space around the outlet. Multi-gang options are also available. Decorative wall plates: Decorative wall plates are simple way to transform the look of any room. Update your room, or even all your rooms, and enjoy the difference."
 asin="B09HMLLHJL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="5"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Ocean Dolphin Single Toggle Light Switch Covers Decorative Outlet Wall Pl
 img="https://m.media-amazon.com/images/I/41tI26qJZqL._SL500_.jpg"
 description="STANDARD SIZE: 1 Gang Outlet Cover/Light Switch Wall Plate/No Service Blank： 4.5 X 2.76 In. 2 Gang. Light Switch Wall Plate：4.5 X 4.5 Inch. 3 Gang Light Switch Wall Plate：6.38 X 4.5 In. 1 Rocker Wallplate（Screwless with bottom plate/Including Screws：)：4.6 X 2.8/4.4 X 2.7 Inch. 2 Rocker Wallplate（Screwless with bottom plate/Including Screws)：4.7 X 4.6/4.6 X 4.5 In. 3 Rocker Wallplate（Screwless with bottom plate)：6.57 X 4.65 In Decor light switch wall panels have a variety of models and patterns for you to choose. Please make sure to check your size before purchase. EASY TO CLEAN: screws in a matching finish are included for easy installation. The smooth rounded design prevents dust accumulation and is easy to clean. Perfect decorative home switch covers for DIY renovations projects or living room, kitchen, bedroom, bathroom, school, study, etc."
 asin="B09SWKNXNV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2"
 >}} 
 ## What are candle wax catchers called?

@@ -25,7 +25,7 @@ title="Crosman P1377 American Classic Multi Pump .177-Caliber Pneumatic Pellet A
 img="https://m.media-amazon.com/images/I/318B7hu+VOL._SL500_.jpg"
 description="SYNTHETIC GRIP WITH RIFLED STEEL BARREL PNEUMATIC DESIGN, VARIABLE PUMP POWER - Control velocity up to 600 fps SINGLE SHOT BOLT ACTION - For easier cocking and loading CROSSBOLT SAFETY - To ensure proper and safe handling FIXED BLADE FRONT SIGHT AND ADJUSTABLE REAR SIGHT - To stay on target IDEAL FOR SKILL DEVELOPMENT TRAINING"
 asin="B00TEACB4U"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Umarex Hammer .50 Caliber PCP Powered Pellet Gun Air Rifle"
 img="https://m.media-amazon.com/images/I/21IRbL7at+L._SL500_.jpg"
 description="The most powerful production air rifle on the planet; Dumps a ton of energy into its target instead of carrying the energy with it through the target One full tank delivers 4 full power regulated shots + 1 finishing shot (4 shots total) Ultralight 4500 psi, 24 cubic inch carbon fiber air tank; Modern stock design with M-LOK locations for accessory mounting and a Picatinny rail for optics mounting Very quiet shooting; Includes two 2-shot linear mags; Straigh pull bolt with a 2-pound pull weight and 2 inches of travel; Two safeties: mag lock-out (won t fire without mag) and trigger block safety Shoots .50 caliber pellets at up to 1130 fps"
 asin="B07CWDJQ7V"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Crosman P1377BR American Classic Multi Pump .177-Caliber Pneumatic Pellet
 img="https://m.media-amazon.com/images/I/31CkK3eG7KL._SL500_.jpg"
 description="SYNTHETIC GRIP WITH RIFLED STEEL BARREL PNEUMATIC DESIGN, VARIABLE PUMP POWER - Control velocity up to 600 fps SINGLE SHOT BOLT ACTION - For easier cocking and loading CROSSBOLT SAFETY - To ensure proper and safe handling FIXED BLADE FRONT SIGHT AND ADJUSTABLE REAR SIGHT - To stay on target IDEAL FOR SKILL DEVELOPMENT TRAINING"
 asin="B00TEACFXW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="SIG Sauer P320 Airgun .177 Cal 30 Rd with CO2 12 Gram (15 Pack) and 500 L
 img="https://m.media-amazon.com/images/I/5122ejMJrDL._SL500_.jpg"
 description="IN THE BOX: 1 x P320 Sig Sauer Airgun .177 Cal 30 Rd (P320-BLK); 1 x Pack of 15x12 gr C02 Tanks (AC-12-15); 1 x Pack of 500 Venom Lead Pellets (AIR-AMMO-VPB-177-500) Uses a 12-gram CO2 cartridge. Semi-auto. 30rd belt-fed mag. Fixed white dot sights. Blowback. Metal slide. Polymer frame"
 asin="B07KJZFZ1Y"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="48"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Wearable4U Hatsan Sortie Tact Semi-Auto PCP Synthetic .25 Cal Air Pistol 
 img="https://m.media-amazon.com/images/I/41RyAY9wHUL._SL500_.jpg"
 description="IN THE BOX: 1 x Hatsan Sortie Tact Semi-Auto PCP Synthetic .25 Cal Air Pistol; 1 x Pack of 100x Paper Targets; 1 x Pack of 150x .25cal Pellets; 1 x Hard Case Semi-Automatic Action. Fully shrouded barrel. 62cc on-board air cylinder. Removeable folding rear stock. Overall Length with Stock Folded: 18.1 . Overall Length with Stock Extended: 25 . Stock: Advanced polymer, ergonomic pistol grip with checkering, collapsible and removable buttstock. Max Velocity (Lead Pellets): 625 FPS. Max Energy: 20 FPE. Shots At Optimal Velocity: 30"
 asin="B08JZLNVCK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="1287"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Umarex Trevox Break Barrel .177 Caliber Pellet Gun Air Pistol"
 img="https://m.media-amazon.com/images/I/31c3OG0x39L._SL500_.jpg"
 description="TNT (Turbo Nitrogen Technology) power system provides smooth and consistent shooting The 5-chamber SilencAir sound dampener is permanently affixed to the air pistol to reduce down range noise and maximize stealth Perfect air pistol for close range varmint control and plinking Shoots .177 caliber pellets at up to 600 fps Features adjustable fiber optic sights and a durable all-weather frame"
 asin="B071KG3QZ4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="71"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Beretta M 92 FS All Metal .177 Caliber Pellet Gun Air Pistol, Black, One 
 img="https://m.media-amazon.com/images/I/41w2jL0gQ1L._SL500_.jpg"
 description="A must-have for every air gun collector and shooting enthusiast; Highly realistic design All metal construction and meticulous high-quality German craftsmanship Shoots .177 caliber pellets at up to 425 fps Powered by easy-to-find 12-gram CO2 cartridges (CO2 NOT included) Features adjustable rear sights and a manual safety; Includes two 8-shot rotary mags and a foam-lined plastic gun case"
 asin="B00193S2HA"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Glock 19 Gen3 .177 Caliber BB Gun Air Pistol"
 img="https://m.media-amazon.com/images/I/41ikjMO3fqL._SL500_.jpg"
 description="15-shot, .177 caliber BB air pistol Powered by a 12-gram CO2 cartridge (CO2 not included) Shoots .177 caliber steel BBs at up to 410 FPS Integrated Weaver rail for easy mounting of accessories Fixed Glock-style sights and officially licensed Glock markings"
 asin="B07FT2LLLK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Walther Reign UXT PCP Pellet Gun Air Rifle, .22 Caliber"
 img="https://m.media-amazon.com/images/I/31lpELCSOsL._SL500_.jpg"
 description="PCP Walther Reign UXT is ambidextrous, accurate, and powerful in a compact .22 caliber package Brings a full ambidextrous, hard-hitting shooting performance to shooters and small game hunters Air rifle uses an auto-indexing and ambidextrous 10-shot magazine and a compact, glass-smooth, side cocking lever offering you the ultimate in fast follow-up shots Can be changed from right-handed to left-handed shooting configuration and has a 2-stage adjustable trigger Shoots .22 caliber pellets at up to 1,000 fps providing 24.6 ft-lbs of energy or 33.44 joules; It has a crisp 3 lb. trigger"
 asin="B083ZZFGYY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="34"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="GAMO Whisper Fusion Mach 1 Air Gun .22 Cal with Combo Pack Assorted Pelle
 img="https://m.media-amazon.com/images/I/31KWSg7GinL._SL500_.jpg"
 description="BUNDLE INCLUDES - Gamo Whisper Fusion Mach 1 air gun .22 cal with combo pack assorted pellets (TS-22 x 200, Hunter x 250, Magnum x 250, Master Point x 250) POWERFUL AIR GUN - The GAMO Whisper Fusion is powerful, quiet and accurate; the IGT MACH 1 gas piston delivers higher muzzle velocity, less vibration and smoother cocking, it also features the quietest noise reduction technology AIR GUN FEATURES - It is equipped with a Gamo 3-9×40 shock- and fogproof scope with rings and an adjustable windage and elevation fiber optics rear & front sight ASSORTED PELLETS - TS-22 - ideal for long distance target shooting; Hunter - characterized by great impact even at long distance shots; Magnum - designed primarily for small game and plinking, Master Point - the best results on small game PELLETS TO USE - The air gun shoots a pellet at up to 1,420 fps (.177 Cal) or 1,020 fps (.22 Cal.) thanks to the larger 33mm cylinder .22 Cal Standard Pack"
 asin="B091Q6ZR8V"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="4814"
 >}} 
 ## Which pellet pistol has the most power?

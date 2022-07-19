@@ -20,7 +20,7 @@ title="Keter Eden 70 Gallon Storage Bench Deck Box for Patio Furniture, Front Po
 img="https://m.media-amazon.com/images/I/41kBFWag+ZL._SL500_.jpg"
 description="213126"
 asin="B00E0JO5MG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="0"
 >}} 
 {{< product 
@@ -28,7 +28,7 @@ title="Outsunny 4-Piece Cushioned Patio Furniture Set, with 2 Chairs, Loveseat, 
 img="https://m.media-amazon.com/images/I/415RVHbb3AL._SL500_.jpg"
 description="VERSATILE LAYOUTS: The patio furniture allows you to choose from various layouts and combinations as each piece can be easily moved and rearranged for optimum space efficiency. FUNCTIONAL COMFORT: This patio furniture set features extra-deep, low-seating modern seating, and thick back-support cushions create the ultimate outdoor seating experience. QUALITY CONSTRUCTION: This patio furniture set is constructed from PE Rattan over a rust-fighting steel frame and will last longer and be more heat and weather resistant than similar wicker furniture. STYLISH CENTER TABLE: A sizeable square rattan table creates a centerpiece for the outdoor furniture and has a 5mm thick tempered glass topper for both style and ease of cleaning. CHIC AND TRENDY: This rattan wicker patio furniture features contemporary, clean lines and sleek angles create a modern centerpiece to any outdoor setting. The rattan finish stylishly complements the cushions. NOTE: Item is packaged from the factory in several boxes and may be delivered at different times; please cover with furniture cover to extend the service life when not in use."
 asin="B01A01JDDS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="7924"
 >}} 
 {{< product 
@@ -36,7 +36,7 @@ title="Wisteria Lane 4 Piece Outdoor Patio Furniture Sets, Wicker Conversation S
 img="https://m.media-amazon.com/images/I/413A1BJJsQL._SL500_.jpg"
 description="UPGRADED COMFORT - This outdoor furniture set comes with lofty spongy, wide, and deep chairs and an ergonomic backrest to provide you with a total comfortable seating experience. This relaxing feeling can ease a worried mind and soothe a tired body while you enjoy the outdoors with family and friends. STURDY & DURABLE - This patio furniture set is crafted with a heavy-duty, powder-coated steel frame and weather-resistant PE rattan. With the appearance of clean and elegant, the outdoor wicker conversation set has various advantages of anti-rust, anti-corrosion, and so on. All the durable performance is designed to ensure long-lasting comfort. CONVENIENT & EASY CLEANING - The modern patio wicker furniture sofa, outdoor conversation set is furnished with a tempered glass top that gives a fresher aesthetic, meanwhile, easily tidied up. The weather-resistant wicker seats can also be easily wiped down. And the padded cushions with removable covers make cleaning more convenient. MODERN & STYLISH - Our 4 piece outdoor patio furniture set is featured with a classic tone of grey, which will increase the highlights of the view of the outdoor space. Perfect for backyard, poolside, lawn, garden, or balcony! Enjoy outdoor leisure time with friends and family! FUNCTIONAL OUTDOOR SET - The outdoor furniture sofa set comes with 1 x Loveseat measuring 48.8 x 24.4 x 26.8 , 2 x Armchairs measuring 26.37 x 24.4 x 26.8 , and 1 x Coffee Table measuring 35.4  x19.7  x 13 . The perfect way to enjoy the outdoor sunny weather!"
 asin="B0772H3W5L"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="325"
 >}} 
 {{< product 
@@ -44,7 +44,7 @@ title="kinbor 3 Piece Brown PE Rattan Rocking Chairs Outdoor Bistro Set with Gla
 img="https://m.media-amazon.com/images/I/512+gWJwGWL._SL500_.jpg"
 description="-Made of PE rattan wicker, steel frame. -Thick cushions and armrests increase the comfort. -Constructed of solid steel, stable and durable. -Seat cushion cover can be taken off and washed. -Easy assembly required."
 asin="B078JZSTF2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="296"
 >}} 
 {{< product 
@@ -52,7 +52,7 @@ title="NETGEAR Wi-Fi Range Extender EX3700 - Coverage Up to 1000 Sq Ft and 15 De
 img="https://m.media-amazon.com/images/I/41ffko0T3kL._SL500_.jpg"
 description="EXTENDED WIRELESS COVERAGE: Adds Wi-Fi range coverage up to 1000 sq ft, and connects up to 15 devices such as laptops, smartphones, speakers, IP cameras, tablets, IoT devices, and more. AC750 WI-FI SPEED: Provides up to 750Mbps performance using dual-band and patented FastLane(TM) technology. UNIVERSAL COMPATIBILITY: Works with any wireless router, gateway, or cable modem with Wi-Fi. WIRED ETHERNET PORT: Simply plug in game consoles, streaming players, or other nearby wired devices using the one 10/100M port for maximum speed. SAFE & SECURE: Supports WEP and WPA/WPA2 wireless security protocols. SIMPLE TO SETUP: Press the WPS button to connect to your router. Use the NETGEAR WiFi Analyzer app for optimal location."
 asin="B00R92CL5E"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## What are those outside chairs called?

@@ -17,7 +17,7 @@ title="Wild Republic Orangutan Plush, Stuffed Animal, Plush Toy, Gifts for Kids,
 img="https://m.media-amazon.com/images/I/51B55Xb-4pS._SL500_.jpg"
 description="Look no further for your next best friend, because this captivating and cute stuffed animal Orangutan is what your life has been missing. The approximate size of this plush toy is measured at 12 inches and made of high quality materials. A day swinging around the forest canopy isn’t complete without a few messes, but this stuffed toy is easily surface washable. This stuffed animal is the perfect unique gift for kids, birthday present for teens, or thoughtful gift for adults. Let this plush toy playmate latch on to you with their opposable thumbs and strong arms for your next adventure."
 asin="B00BB807OE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -25,7 +25,7 @@ title="The Jungle Book-Teen-Adult 2 pack Socks (Shoe: 4-10 (Sock: 9-11), King Lo
 img="https://m.media-amazon.com/images/I/41xg+STVtJL._SL500_.jpg"
 description="GREAT VALUE - These Yankee Toy Box Jungle Book sock sets are a great value. These crew style sock sets feature ribbed-knit cuffs and reinforced heels and toes. There are 2 pairs in each set. SIZING - These awesome crew style Jungle Book socks come in sock size Large. Sock size Large (9-11) fits shoe size 4 M US Big Kid -10 M US Women s (4 M US Big Kid - 8.5 M US Men s). FEATURING THEIR FAVORITE JUNGLE BOOK CHARACTERS - This two pack sock set features graphics of your favorite Jungle Book characters: Baloo and King Louie! It s the perfect sock choice for any day! PRODUCT CARE - Caring for these socks is easy. Wash them in cold water. These socks sets are imported. THE PERFECT GIFT! - Disney s Jungle Book socks make the perfect gift. Why? They are well constructed, feature adorable graphics, and are very affordable. It s the perfect sock set for any Disney fan!"
 asin="B01M8LFEAX"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="2778"
 >}} 
 ## Can Fido jars go in dishwasher?

@@ -20,7 +20,7 @@ title="Oxford Composition Notebooks, Wide Ruled Paper, 9-3/4  x 7-1/2 , Assorted
 img="https://m.media-amazon.com/images/I/61KqD-eM1yL._SL500_.jpg"
 description="Save by the pack: Get 12 composition notebooks with 100 sheets of wide ruled paper in each; a stock-up staple for your school supplies list Sturdy covers protect your notes and provide a solid writing surface; great for English comp, labs, general notes and journals Wide ruled paper allows for large writing; sturdy stock handles mechanical pencils, gel pens, ink pens and highlighters for perfect notes Black marble notebook covers have conversion charts and a blank class schedule inside; use erasable pens to update your schedule as needed Sewn pages are permanently bound; more secure than spiral notebooks for notes, journal, or bullet journal entries that last"
 asin="B009NKWY34"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -28,7 +28,7 @@ title="Wide Ruled Black Marble Composition Notebook, 100 Sheet, 48-Pack"
 img="https://m.media-amazon.com/images/I/51T9THgt-hL._SL500_.jpg"
 description="Composition book contains 100 double-sided, wide-ruled sheets (200 pages). Perfect for school and journaling Composition book contains 100 double-sided, wide-ruled sheets (200 pages). Perfect for school and journaling Wide-ruled format makes taking notes easy and keeps handwriting neat. Typically required by grade school teachers The hard cover is black marble and features space to write your name, number or title. It is a durable cover with secure sewn binding and stitched in sheets. Inside covers have space for students to write their class schedule along with reference tools such as multiplication table and conversion tables Pages measure 9.75 inches x 7.5 inches 48 Pack"
 asin="B083NBC6F6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="17"
 >}} 
 {{< product 
@@ -36,7 +36,7 @@ title="Amazon Basics Wide Ruled Composition Notebook, 100 Sheet, Assorted Marble
 img="https://m.media-amazon.com/images/I/51y5UYRaHkL._SL500_.jpg"
 description="Composition Wide Ruled notebook with 100 sheets of paper (56 gsm weight paper stock; 92% brightness); 4-pack of assorted marble colors Wide-ruled format (11/32-inch) promotes neat, even lines of legible writing Sturdy front and back covers (20 pt. white cardstock) protect the paper and double as a firm surface for writing against Printed quick-reference info on inside covers (schedule table and standard weight and measurement conversion chart) Sewn binding keeps pages securely attached; paper measures 9.8 by 7.5 inches"
 asin="B07D2PQH48"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -44,7 +44,7 @@ title="Oxford Composition Notebooks, College Ruled Paper, 9-3/4  x 7-1/2 , Black
 img="https://m.media-amazon.com/images/I/61UOts3cpgL._SL500_.jpg"
 description="Save by the pack: Get 12 composition notebooks with 100 sheets of college ruled paper in each; a stock-up staple for your school supplies list Sturdy composition book covers protect your notes; great for school writing or science notebooks, home school assignments and home office tasks College ruled paper fits more lines per page; sturdy stock handles mechanical pencils, gel pens, ink pens and highlighters for perfect notes Black marble notebook covers have conversion charts and a blank class schedule inside; use erasable pens to update your schedule as needed Sewn pages are permanently bound; more secure than spiral notebooks for notes, journal, or bullet journal entries that last"
 asin="B007XZKFSM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -52,7 +52,7 @@ title="Mead Composition Book, Wide Ruled Comp Book, Writing Journal Notebook wit
 img="https://m.media-amazon.com/images/I/51VIiqbEnyS._SL500_.jpg"
 description="The Mead Black Marble Composition Book is a classic favorite for journaling and lab notes Sheets measure 9 3/4  x 7 1/2 . Contains 100 double-sided, wide ruled sheets ideal for notetaking. Wide ruling is ideal for the younger student who needs more space between lines Black marble cover includes a class schedule, multiplication tables, conversion tables and grammar rules Sewn binding is smooth and keeps pages securely in place. Lays flat on any surface. Pack includes 12 composition books"
 asin="B0028N6PSS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## What paper size is a composition book?

@@ -19,7 +19,7 @@ title="Slick Products SP4001 Shine & Protectant Spray Coating, High-Gloss Luster
 img="https://m.media-amazon.com/images/I/31s4h+SnBlL._SL500_.jpg"
 description="Long lasting high gloss shine Delivers a wet black look Protects against harmful elements that can cause cracking and fading Leaves a waterproof coating that prevents corrosion"
 asin="B00BBGMP9Q"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 {{< product 
@@ -27,7 +27,7 @@ title="Slick Products Wash & Wax Extra Thick Foaming Cleaning Solution Motorcycl
 img="https://m.media-amazon.com/images/I/41bVWyempGL._SL500_.jpg"
 description="PREMIUM WASH SOLUTION WITH PROFESSIONAL RESULTS : Slick Products cleaning solutions are specially formulated with high-quality ingredients, designed to offer users a faster, safer, and much easier cleaning experience wash after wash. Our Super Concentrated Wash and Wax is exactly what you need to maintain the life, look, and value of street and watercraft vehicles for years to come. EASY PRO AND HOME USE : Whether you re a professional in car detailing and boat cleaning, or just want to wash your vehicle at home, our wash and wax soap is perfect for you. This sudsy foamy wash works to get rid of all the dirt and grime on the surfaces of vehicles while adding a layer of wax protection, making it easy to achieve a professional shine. VALUE FOR YOUR MONEY : Getting a showroom shine doesn t have to take hours of detailing. Make your next car wash fast, fun, and spotless with our car shampoo. Each bottle is the equivalent of 32 pre-mixed quart bottles. kit. Just mix 4-8 ounces of the blue soap with 1 Gallon of water. Our wash and wax concentrate works great with any foam cannon, foam gun, sprayer, or bucket for easy washing of your street or watercraft vehicles. SUPERIOR CLEANING WITH ADDED PROTECTION : Maintain the life, look and value of your off road vehicles with our super concentrated cleaning solution. This Slick Products car wash solution is formulated to effectively clean with fast-acting surfactants that quickly penetrate to release surface tension for easy removal while protecting surfaces with a shiny, protective wax finish to achieve a high-gloss luster after every wash. SAFE FOR ALL FINISHES : You can safely apply our non corrosive wash to aluminum, anodized parts, other metal surfaces, paint, plastic, rubber, and bearings without etching, fading, or discoloring surfaces. This pH balanced wash is designed for exterior use on your car, truck, boat, jet ski, motorcycle, RV, Motorcycle, Toy Hauler, Boat, and other vehicles."
 asin="B07WNK3MG6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="99"
 >}} 
 ## What does it mean to call someone slick?

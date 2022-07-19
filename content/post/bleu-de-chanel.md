@@ -19,7 +19,7 @@ title="Chanel Bleu De Chanel Eau De Toilette Spray For Men 100Ml/3.4Oz"
 img="https://m.media-amazon.com/images/I/31wWsc10CZL._SL500_.jpg"
 description="IN THREE ACTS, BLUE CHANEL DEPLOYS ALL THE FREEDOM IN THE MASCULINE ENERGY:"
 asin="B0046JCA4K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="3819"
 >}} 
 {{< product 
@@ -27,7 +27,7 @@ title="Chanel Bleu oz / 1.5 ml Promo Size edt Pour Homme Vial"
 img="https://m.media-amazon.com/images/I/11MzIClFC1L._SL500_.jpg"
 description="Chanel Bleu oz / 1.5 ml Promo Size edt Pour Homme Vial"
 asin="B004DM7SF6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="296"
 >}} 
 {{< product 
@@ -35,7 +35,7 @@ title="Chanel Bleu De Eau De Parfum Spray For Men, 3.4 Ounce"
 img="https://m.media-amazon.com/images/I/41pTIsUZ41L._SL500_.jpg"
 description="The most intense of the BLEU DE CHANEL fragrances Powerful and refined, BLEU DE CHANEL Parfum for men reveals the essence of determination An aromatic freshness opens, lingering on the warm The Parfum comes in a spray for easy application."
 asin="B097W79YGQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="66"
 >}} 
 {{< product 
@@ -43,7 +43,7 @@ title="Electric Blue, version of Bleu de Chanel Eau de Toilette Spray for Men"
 img="https://m.media-amazon.com/images/I/41EVB-H2iZL._SL500_.jpg"
 description="A refreshing fragrance blending bright citrus notes with warm spices and sandalwood Affordable alternative to the designer fragrance. Perfect for day or evening wear. Electric Blue is not associated with Bleu de Chanel, which is the trademark of the brand name manufacturer. Item Package Weight: 0.44 pounds"
 asin="B00AVS1BIQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="preciouscargokids-20"
 reviews="386"
 >}} 
 ## Does Bleu de Chanel last long?
